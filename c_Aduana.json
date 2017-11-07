@@ -1,0 +1,198 @@
+[
+  {
+    "id": "01",
+    "descripcion": "ACAPULCO, ACAPULCO DE JUAREZ, GUERRERO."
+  },
+  {
+    "id": "02",
+    "descripcion": "AGUA PRIETA, AGUA PRIETA, SONORA."
+  },
+  {
+    "id": "05",
+    "descripcion": "SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO."
+  },
+  {
+    "id": "06",
+    "descripcion": "CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE."
+  },
+  {
+    "id": "07",
+    "descripcion": "CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA."
+  },
+  {
+    "id": "08",
+    "descripcion": "COATZACOALCOS, COATZACOALCOS, VERACRUZ."
+  },
+  {
+    "id": "11",
+    "descripcion": "ENSENADA, ENSENADA, BAJA CALIFORNIA."
+  },
+  {
+    "id": "12",
+    "descripcion": "GUAYMAS, GUAYMAS, SONORA."
+  },
+  {
+    "id": "14",
+    "descripcion": "LA PAZ, LA PAZ, BAJA CALIFORNIA SUR."
+  },
+  {
+    "id": "16",
+    "descripcion": "MANZANILLO, MANZANILLO, COLIMA."
+  },
+  {
+    "id": "17",
+    "descripcion": "MATAMOROS, MATAMOROS, TAMAULIPAS."
+  },
+  {
+    "id": "18",
+    "descripcion": "MAZATLAN, MAZATLAN, SINALOA."
+  },
+  {
+    "id": "19",
+    "descripcion": "MEXICALI, MEXICALI, BAJA CALIFORNIA."
+  },
+  {
+    "id": "20",
+    "descripcion": "MEXICO, DISTRITO FEDERAL."
+  },
+  {
+    "id": "22",
+    "descripcion": "NACO, NACO, SONORA."
+  },
+  {
+    "id": "23",
+    "descripcion": "NOGALES, NOGALES, SONORA."
+  },
+  {
+    "id": "24",
+    "descripcion": "NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS."
+  },
+  {
+    "id": "25",
+    "descripcion": "OJINAGA, OJINAGA, CHIHUAHUA."
+  },
+  {
+    "id": "26",
+    "descripcion": "PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA."
+  },
+  {
+    "id": "27",
+    "descripcion": "PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA."
+  },
+  {
+    "id": "28",
+    "descripcion": "PROGRESO, PROGRESO, YUCATAN."
+  },
+  {
+    "id": "30",
+    "descripcion": "CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS."
+  },
+  {
+    "id": "31",
+    "descripcion": "SALINA CRUZ, SALINA CRUZ, OAXACA."
+  },
+  {
+    "id": "33",
+    "descripcion": "SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA."
+  },
+  {
+    "id": "34",
+    "descripcion": "CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS."
+  },
+  {
+    "id": "37",
+    "descripcion": "CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS."
+  },
+  {
+    "id": "38",
+    "descripcion": "TAMPICO, TAMPICO, TAMAULIPAS."
+  },
+  {
+    "id": "39",
+    "descripcion": "TECATE, TECATE, BAJA CALIFORNIA."
+  },
+  {
+    "id": "40",
+    "descripcion": "TIJUANA, TIJUANA, BAJA CALIFORNIA."
+  },
+  {
+    "id": "42",
+    "descripcion": "TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ."
+  },
+  {
+    "id": "43",
+    "descripcion": "VERACRUZ, VERACRUZ, VERACRUZ."
+  },
+  {
+    "id": "44",
+    "descripcion": "CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA."
+  },
+  {
+    "id": "46",
+    "descripcion": "TORREON, TORREON, COAHUILA."
+  },
+  {
+    "id": "47",
+    "descripcion": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO,"
+  },
+  {
+    "id": "48",
+    "descripcion": "GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO."
+  },
+  {
+    "id": "50",
+    "descripcion": "SONOYTA, SONOYTA, SONORA."
+  },
+  {
+    "id": "51",
+    "descripcion": "LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN."
+  },
+  {
+    "id": "52",
+    "descripcion": "MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON."
+  },
+  {
+    "id": "53",
+    "descripcion": "CANCUN, CANCUN, QUINTANA ROO."
+  },
+  {
+    "id": "64",
+    "descripcion": "QUERÉTARO, EL MARQUÉS Y COLON, QUERÉTARO."
+  },
+  {
+    "id": "65",
+    "descripcion": "TOLUCA, TOLUCA, ESTADO DE MEXICO."
+  },
+  {
+    "id": "67",
+    "descripcion": "CHIHUAHUA, CHIHUAHUA, CHIHUAHUA."
+  },
+  {
+    "id": "73",
+    "descripcion": "AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES."
+  },
+  {
+    "id": "75",
+    "descripcion": "PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA."
+  },
+  {
+    "id": "80",
+    "descripcion": "COLOMBIA, COLOMBIA, NUEVO LEON."
+  },
+  {
+    "id": "81",
+    "descripcion": "ALTAMIRA, ALTAMIRA, TAMAULIPAS."
+  },
+  {
+    "id": "82",
+    "descripcion": "CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS."
+  },
+  {
+    "id": "83",
+    "descripcion": "DOS BOCAS, PARAISO, TABASCO."
+  },
+  {
+    "id": "84",
+    "descripcion": "GUANAJUATO, SILAO, GUANAJUATO."
+  }
+]

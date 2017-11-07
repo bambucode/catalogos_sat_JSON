@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "descripcion": "ISR",
+    "retencion": "Si",
+    "traslado": "No",
+    "localOFederal": "Federal",
+    "entidadEnLaQueAplica": ""
+  },
+  {
+    "id": "002",
+    "descripcion": "IVA",
+    "retencion": "Si",
+    "traslado": "Si",
+    "localOFederal": "Federal",
+    "entidadEnLaQueAplica": ""
+  },
+  {
+    "id": "003",
+    "descripcion": "IEPS",
+    "retencion": "Si",
+    "traslado": "Si",
+    "localOFederal": "Federal",
+    "entidadEnLaQueAplica": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "descripcion": "Nota de crédito de los documentos relacionados",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Nota de débito de los documentos relacionados",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Devolución de mercancía sobre facturas o traslados previos",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Sustitución de los CFDI previos",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Traslados de mercancias facturados previamente",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "Factura generada por los traslados previos",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "CFDI por aplicación de anticipo",
+    "fechaInicioDeVigencia": "2017-08-13",
+    "fechaFinDeVigencia": ""
+  }
+]

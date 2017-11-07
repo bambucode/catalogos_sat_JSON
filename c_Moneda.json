@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "AED",
+    "descripcion": "Dirham de EAU",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AFN",
+    "descripcion": "Afghani",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ALL",
+    "descripcion": "Lek",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AMD",
+    "descripcion": "Dram armenio",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ANG",
+    "descripcion": "Florín antillano neerlandés",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AOA",
+    "descripcion": "Kwanza",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ARS",
+    "descripcion": "Peso Argentino",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AUD",
+    "descripcion": "Dólar Australiano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AWG",
+    "descripcion": "Aruba Florin",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AZN",
+    "descripcion": "Azerbaijanian Manat",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BAM",
+    "descripcion": "Convertibles marca",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BBD",
+    "descripcion": "Dólar de Barbados",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BDT",
+    "descripcion": "Taka",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BGN",
+    "descripcion": "Lev búlgaro",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BHD",
+    "descripcion": "Dinar de Bahrein",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BIF",
+    "descripcion": "Burundi Franc",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BMD",
+    "descripcion": "Dólar de Bermudas",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BND",
+    "descripcion": "Dólar de Brunei",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BOB",
+    "descripcion": "Boliviano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BOV",
+    "descripcion": "Mvdol",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BRL",
+    "descripcion": "Real brasileño",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BSD",
+    "descripcion": "Dólar de las Bahamas",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BTN",
+    "descripcion": "Ngultrum",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BWP",
+    "descripcion": "Pula",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BYR",
+    "descripcion": "Rublo bielorruso",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BZD",
+    "descripcion": "Dólar de Belice",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CAD",
+    "descripcion": "Dolar Canadiense",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CDF",
+    "descripcion": "Franco congoleño",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CHE",
+    "descripcion": "WIR Euro",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CHF",
+    "descripcion": "Franco Suizo",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CHW",
+    "descripcion": "Franc WIR",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CLF",
+    "descripcion": "Unidad de Fomento",
+    "decimales": "4",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CLP",
+    "descripcion": "Peso chileno",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CNY",
+    "descripcion": "Yuan Renminbi",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "COP",
+    "descripcion": "Peso Colombiano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "COU",
+    "descripcion": "Unidad de Valor real",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CRC",
+    "descripcion": "Colón costarricense",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CUC",
+    "descripcion": "Peso Convertible",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CUP",
+    "descripcion": "Peso Cubano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CVE",
+    "descripcion": "Cabo Verde Escudo",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CZK",
+    "descripcion": "Corona checa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DJF",
+    "descripcion": "Franco de Djibouti",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DKK",
+    "descripcion": "Corona danesa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DOP",
+    "descripcion": "Peso Dominicano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DZD",
+    "descripcion": "Dinar argelino",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "EGP",
+    "descripcion": "Libra egipcia",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ERN",
+    "descripcion": "Nakfa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ETB",
+    "descripcion": "Birr etíope",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "EUR",
+    "descripcion": "Euro",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "FJD",
+    "descripcion": "Dólar de Fiji",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "FKP",
+    "descripcion": "Libra malvinense",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GBP",
+    "descripcion": "Libra Esterlina",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GEL",
+    "descripcion": "Lari",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GHS",
+    "descripcion": "Cedi de Ghana",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GIP",
+    "descripcion": "Libra de Gibraltar",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GMD",
+    "descripcion": "Dalasi",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GNF",
+    "descripcion": "Franco guineano",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GTQ",
+    "descripcion": "Quetzal",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GYD",
+    "descripcion": "Dólar guyanés",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HKD",
+    "descripcion": "Dolar De Hong Kong",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HNL",
+    "descripcion": "Lempira",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HRK",
+    "descripcion": "Kuna",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HTG",
+    "descripcion": "Gourde",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HUF",
+    "descripcion": "Florín",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IDR",
+    "descripcion": "Rupia",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ILS",
+    "descripcion": "Nuevo Shekel Israelí",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "INR",
+    "descripcion": "Rupia india",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IQD",
+    "descripcion": "Dinar iraquí",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IRR",
+    "descripcion": "Rial iraní",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ISK",
+    "descripcion": "Corona islandesa",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "JMD",
+    "descripcion": "Dólar Jamaiquino",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "JOD",
+    "descripcion": "Dinar jordano",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "JPY",
+    "descripcion": "Yen",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KES",
+    "descripcion": "Chelín keniano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KGS",
+    "descripcion": "Som",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KHR",
+    "descripcion": "Riel",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KMF",
+    "descripcion": "Franco Comoro",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KPW",
+    "descripcion": "Corea del Norte ganó",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KRW",
+    "descripcion": "Won",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KWD",
+    "descripcion": "Dinar kuwaití",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KYD",
+    "descripcion": "Dólar de las Islas Caimán",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KZT",
+    "descripcion": "Tenge",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LAK",
+    "descripcion": "Kip",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LBP",
+    "descripcion": "Libra libanesa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LKR",
+    "descripcion": "Rupia de Sri Lanka",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LRD",
+    "descripcion": "Dólar liberiano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LSL",
+    "descripcion": "Loti",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LYD",
+    "descripcion": "Dinar libio",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MAD",
+    "descripcion": "Dirham marroquí",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MDL",
+    "descripcion": "Leu moldavo",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MGA",
+    "descripcion": "Ariary malgache",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MKD",
+    "descripcion": "Denar",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MMK",
+    "descripcion": "Kyat",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MNT",
+    "descripcion": "Tugrik",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MOP",
+    "descripcion": "Pataca",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MRO",
+    "descripcion": "Ouguiya",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MUR",
+    "descripcion": "Rupia de Mauricio",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MVR",
+    "descripcion": "Rupia",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MWK",
+    "descripcion": "Kwacha",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MXN",
+    "descripcion": "Peso Mexicano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MXV",
+    "descripcion": "México Unidad de Inversión (UDI)",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MYR",
+    "descripcion": "Ringgit malayo",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MZN",
+    "descripcion": "Mozambique Metical",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NAD",
+    "descripcion": "Dólar de Namibia",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NGN",
+    "descripcion": "Naira",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NIO",
+    "descripcion": "Córdoba Oro",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NOK",
+    "descripcion": "Corona noruega",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NPR",
+    "descripcion": "Rupia nepalí",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NZD",
+    "descripcion": "Dólar de Nueva Zelanda",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OMR",
+    "descripcion": "Rial omaní",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PAB",
+    "descripcion": "Balboa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PEN",
+    "descripcion": "Nuevo Sol",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PGK",
+    "descripcion": "Kina",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PHP",
+    "descripcion": "Peso filipino",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PKR",
+    "descripcion": "Rupia de Pakistán",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PLN",
+    "descripcion": "Zloty",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PYG",
+    "descripcion": "Guaraní",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "QAR",
+    "descripcion": "Qatar Rial",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "RON",
+    "descripcion": "Leu rumano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "RSD",
+    "descripcion": "Dinar serbio",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "RUB",
+    "descripcion": "Rublo ruso",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "RWF",
+    "descripcion": "Franco ruandés",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SAR",
+    "descripcion": "Riyal saudí",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SBD",
+    "descripcion": "Dólar de las Islas Salomón",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SCR",
+    "descripcion": "Rupia de Seychelles",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SDG",
+    "descripcion": "Libra sudanesa",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SEK",
+    "descripcion": "Corona sueca",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SGD",
+    "descripcion": "Dolar De Singapur",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SHP",
+    "descripcion": "Libra de Santa Helena",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SLL",
+    "descripcion": "Leona",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SOS",
+    "descripcion": "Chelín somalí",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SRD",
+    "descripcion": "Dólar de Suriname",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SSP",
+    "descripcion": "Libra sudanesa Sur",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "STD",
+    "descripcion": "Dobra",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SVC",
+    "descripcion": "Colon El Salvador",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SYP",
+    "descripcion": "Libra Siria",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SZL",
+    "descripcion": "Lilangeni",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "THB",
+    "descripcion": "Baht",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TJS",
+    "descripcion": "Somoni",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TMT",
+    "descripcion": "Turkmenistán nuevo manat",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TND",
+    "descripcion": "Dinar tunecino",
+    "decimales": "3",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TOP",
+    "descripcion": "Pa'anga",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TRY",
+    "descripcion": "Lira turca",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TTD",
+    "descripcion": "Dólar de Trinidad y Tobago",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TWD",
+    "descripcion": "Nuevo dólar de Taiwán",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TZS",
+    "descripcion": "Shilling tanzano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UAH",
+    "descripcion": "Hryvnia",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UGX",
+    "descripcion": "Shilling de Uganda",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "USD",
+    "descripcion": "Dolar americano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "USN",
+    "descripcion": "Dólar estadounidense (día siguiente)",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UYI",
+    "descripcion": "Peso Uruguay en Unidades Indexadas (URUIURUI)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UYU",
+    "descripcion": "Peso Uruguayo",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UZS",
+    "descripcion": "Uzbekistán Sum",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VEF",
+    "descripcion": "Bolívar",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VND",
+    "descripcion": "Dong",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VUV",
+    "descripcion": "Vatu",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "WST",
+    "descripcion": "Tala",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XAF",
+    "descripcion": "Franco CFA BEAC",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XAG",
+    "descripcion": "Plata",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XAU",
+    "descripcion": "Oro",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XBA",
+    "descripcion": "Unidad de Mercados de Bonos Unidad Europea Composite (EURCO)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XBB",
+    "descripcion": "Unidad Monetaria de Bonos de Mercados Unidad Europea (UEM-6)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XBC",
+    "descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 9 (UCE-9)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XBD",
+    "descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 17 (UCE-17)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XCD",
+    "descripcion": "Dólar del Caribe Oriental",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XDR",
+    "descripcion": "DEG (Derechos Especiales de Giro)",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XOF",
+    "descripcion": "Franco CFA BCEAO",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XPD",
+    "descripcion": "Paladio",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XPF",
+    "descripcion": "Franco CFP",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XPT",
+    "descripcion": "Platino",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XSU",
+    "descripcion": "Sucre",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XTS",
+    "descripcion": "Códigos reservados específicamente para propósitos de prueba",
+    "decimales": "0",
+    "porcentajeVariacion": "",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XUA",
+    "descripcion": "Unidad ADB de Cuenta",
+    "decimales": "0",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "XXX",
+    "descripcion": "Los códigos asignados para las transacciones en que intervenga ninguna moneda",
+    "decimales": "0",
+    "porcentajeVariacion": "",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "YER",
+    "descripcion": "Rial yemení",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ZAR",
+    "descripcion": "Rand",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ZMW",
+    "descripcion": "Kwacha zambiano",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ZWL",
+    "descripcion": "Zimbabwe Dólar",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaFinDeVigencia": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "I",
+    "descripcion": "Ingreso",
+    "valorMaximo": "999999999999999999.999999",
+    "fechaInicioDeVigencia": "",
+    "fechaFinDeVigencia": "2017-07-29"
+  },
+  {
+    "id": "E",
+    "descripcion": "Egreso",
+    "valorMaximo": "999999999999999999.999999",
+    "fechaInicioDeVigencia": "",
+    "fechaFinDeVigencia": "2017-07-29"
+  },
+  {
+    "id": "T",
+    "descripcion": "Traslado",
+    "valorMaximo": "00",
+    "fechaInicioDeVigencia": "",
+    "fechaFinDeVigencia": "2017-01-01"
+  },
+  {
+    "id": "N",
+    "descripcion": "Nómina",
+    "valorMaximo": "NS",
+    "fechaInicioDeVigencia": "NdS",
+    "fechaFinDeVigencia": "2017-07-29"
+  },
+  {
+    "id": "P",
+    "descripcion": "Pago",
+    "valorMaximo": "999999999999999999.999999",
+    "fechaInicioDeVigencia": "",
+    "fechaFinDeVigencia": "2017-07-29"
+  }
+]

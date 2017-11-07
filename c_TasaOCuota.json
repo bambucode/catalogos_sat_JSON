@@ -1,0 +1,200 @@
+[
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "00",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "No",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "01",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": 0.25,
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "43",
+    "impuesto": "IEPS",
+    "factor": "Cuota",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "00",
+    "impuesto": "ISR",
+    "factor": "Tasa",
+    "traslado": "No",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "2017-01-01",
+    "fechaFinDeVigencia": ""
+  }
+]
