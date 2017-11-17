@@ -4,7 +4,7 @@
     "descripcion": "General de Ley Personas Morales",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -12,7 +12,7 @@
     "descripcion": "Personas Morales con Fines no Lucrativos",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -20,7 +20,7 @@
     "descripcion": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -28,7 +28,7 @@
     "descripcion": "Arrendamiento",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -36,7 +36,7 @@
     "descripcion": "Demás ingresos",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -44,7 +44,7 @@
     "descripcion": "Consolidación",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -52,7 +52,7 @@
     "descripcion": "Residentes en el Extranjero sin Establecimiento Permanente en México",
     "fisica": "Sí",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -60,7 +60,7 @@
     "descripcion": "Ingresos por Dividendos (socios y accionistas)",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "Personas Físicas con Actividades Empresariales y Profesionales",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -76,7 +76,7 @@
     "descripcion": "Ingresos por intereses",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -84,7 +84,7 @@
     "descripcion": "Sin obligaciones fiscales",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -92,7 +92,7 @@
     "descripcion": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -100,7 +100,7 @@
     "descripcion": "Incorporación Fiscal",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -108,7 +108,7 @@
     "descripcion": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
     "fisica": "Sí",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -116,7 +116,7 @@
     "descripcion": "Opcional para Grupos de Sociedades",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -124,7 +124,7 @@
     "descripcion": "Coordinados",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -132,7 +132,7 @@
     "descripcion": "Hidrocarburos",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2020-01-01",
+    "fechaDeInicioDeVigencia": "01-01-2020",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -140,7 +140,7 @@
     "descripcion": "Régimen de Enajenación o Adquisición de Bienes",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -148,7 +148,7 @@
     "descripcion": "De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2020-01-01",
+    "fechaDeInicioDeVigencia": "01-01-2020",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -156,7 +156,7 @@
     "descripcion": "Enajenación de acciones en bolsa de valores",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2020-01-01",
+    "fechaDeInicioDeVigencia": "01-01-2020",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -164,7 +164,7 @@
     "descripcion": "Régimen de los ingresos por obtención de premios",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "2016-11-12",
+    "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
   }
 ]

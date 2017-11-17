@@ -4,34 +4,34 @@
     "descripcion": "Ingreso",
     "valorMaximo": "999999999999999999.999999",
     "fechaInicioDeVigencia": "",
-    "fechaFinDeVigencia": "2017-07-29"
+    "fechaFinDeVigencia": "29-07-2017"
   },
   {
     "id": "E",
     "descripcion": "Egreso",
     "valorMaximo": "999999999999999999.999999",
     "fechaInicioDeVigencia": "",
-    "fechaFinDeVigencia": "2017-07-29"
+    "fechaFinDeVigencia": "29-07-2017"
   },
   {
     "id": "T",
     "descripcion": "Traslado",
     "valorMaximo": "00",
     "fechaInicioDeVigencia": "",
-    "fechaFinDeVigencia": "2017-01-01"
+    "fechaFinDeVigencia": "01-01-2017"
   },
   {
     "id": "N",
     "descripcion": "Nómina",
     "valorMaximo": "NS",
     "fechaInicioDeVigencia": "NdS",
-    "fechaFinDeVigencia": "2017-07-29"
+    "fechaFinDeVigencia": "29-07-2017"
   },
   {
     "id": "P",
     "descripcion": "Pago",
     "valorMaximo": "999999999999999999.999999",
     "fechaInicioDeVigencia": "",
-    "fechaFinDeVigencia": "2017-07-29"
+    "fechaFinDeVigencia": "29-07-2017"
   }
 ]
