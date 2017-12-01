@@ -320,6 +320,22 @@
     "fechaFinDeVigencia": ""
   },
   {
+    "id": "31",
+    "descripcion": "Intermediario pagos",
+    "bancarizado": "No",
+    "numeroDeOperacion": "Opcional",
+    "rFCDelEmisorDeLaCuentaOrdenante": "No",
+    "cuentaOrdenante": "No",
+    "patronParaCuentaOrdenante": "No",
+    "rFCDelEmisorCuentaDeBeneficiario": "No",
+    "cuentaDeBenenficiario": "No",
+    "patronParaCuentaBeneficiaria": "No",
+    "tipoCadenaPago": "No",
+    "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
+    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
     "id": "99",
     "descripcion": "Por definir",
     "bancarizado": "Opcional",

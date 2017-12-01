@@ -2,155 +2,177 @@
   {
     "id": "G01",
     "descripcion": "Adquisición de mercancias",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "G02",
     "descripcion": "Devoluciones, descuentos o bonificaciones",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "G03",
     "descripcion": "Gastos en general",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I01",
     "descripcion": "Construcciones",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I02",
     "descripcion": "Mobilario y equipo de oficina por inversiones",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I03",
     "descripcion": "Equipo de transporte",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I04",
     "descripcion": "Equipo de computo y accesorios",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I05",
     "descripcion": "Dados, troqueles, moldes, matrices y herramental",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I06",
     "descripcion": "Comunicaciones telefónicas",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I07",
     "descripcion": "Comunicaciones satelitales",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "I08",
     "descripcion": "Otra maquinaria y equipo",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D01",
     "descripcion": "Honorarios médicos, dentales y gastos hospitalarios.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D02",
     "descripcion": "Gastos médicos por incapacidad o discapacidad",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D03",
     "descripcion": "Gastos funerales.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D04",
     "descripcion": "Donativos.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D05",
     "descripcion": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D06",
     "descripcion": "Aportaciones voluntarias al SAR.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D07",
     "descripcion": "Primas por seguros de gastos médicos.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D08",
     "descripcion": "Gastos de transportación escolar obligatoria.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D09",
     "descripcion": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "D10",
     "descripcion": "Pagos por servicios educativos (colegiaturas)",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "No",
-    "fechaFinDeVigencia": "01-01-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "P01",
     "descripcion": "Por definir",
-    "aplicaParaTipoPersona": "Sí",
-    "fechaInicioDeVigencia": "Sí",
-    "fechaFinDeVigencia": "31-03-2017"
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "31-03-2017",
+    "fechaFinDeVigencia": ""
   }
 ]

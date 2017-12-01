@@ -40,5 +40,17 @@
     "descripcion": "CFDI por aplicación de anticipo",
     "fechaInicioDeVigencia": "13-08-2017",
     "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "Factura generada por pagos en parcialidades",
+    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "09",
+    "descripcion": "Factura generada por pagos diferidos",
+    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaFinDeVigencia": ""
   }
 ]
