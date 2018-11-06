@@ -6,7 +6,7 @@
   },
   {
     "c_PatenteAduanal": "74",
-    "inicioDeVigenciaDeLaPatente": "03/07/2001",
+    "inicioDeVigenciaDeLaPatente": "03-07-2001",
     "finDeVigenciaDeLaPatente": ""
   },
   {
@@ -6357,6 +6357,16 @@
   {
     "c_PatenteAduanal": "1776",
     "inicioDeVigenciaDeLaPatente": "24-09-2018",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "1785",
+    "inicioDeVigenciaDeLaPatente": "04-10-2018",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "1787",
+    "inicioDeVigenciaDeLaPatente": "04-10-2018",
     "finDeVigenciaDeLaPatente": ""
   },
   {
