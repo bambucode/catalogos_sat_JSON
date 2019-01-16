@@ -35,6 +35,17 @@
   {
     "rangoOFijo": "Fijo",
     "minimo": "",
+    "maximo": "0.08",
+    "impuesto": "IVA Crédito aplicado del 50%",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "07-01-2019",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
     "maximo": "0.265",
     "impuesto": "IEPS",
     "factor": "Tasa",
