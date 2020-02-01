@@ -189,12 +189,12 @@
   {
     "rangoOFijo": "Rango",
     "minimo": "00",
-    "maximo": "43.77",
+    "maximo": "50.32",
     "impuesto": "IEPS",
     "factor": "Cuota",
     "traslado": "Sí",
     "retencion": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2020",
     "fechaFinDeVigencia": ""
   },
   {
