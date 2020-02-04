@@ -45,7 +45,7 @@
     "fisica": "No",
     "moral": "Sí",
     "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
+    "fechaDeFinDeVigencia": "31-12-2019"
   },
   {
     "id": "610",
@@ -132,7 +132,7 @@
     "descripcion": "Hidrocarburos",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "01-01-2020",
+    "fechaDeInicioDeVigencia": "01-01-2024",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -148,7 +148,7 @@
     "descripcion": "De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "01-01-2020",
+    "fechaDeInicioDeVigencia": "01-01-2024",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -156,7 +156,7 @@
     "descripcion": "Enajenación de acciones en bolsa de valores",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "01-01-2020",
+    "fechaDeInicioDeVigencia": "01-01-2024",
     "fechaDeFinDeVigencia": ""
   },
   {
