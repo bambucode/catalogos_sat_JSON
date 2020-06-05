@@ -166,5 +166,13 @@
     "moral": "No",
     "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "625",
+    "descripcion": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
+    "fisica": "Sí",
+    "moral": "No",
+    "fechaDeInicioDeVigencia": "01-06-2020",
+    "fechaDeFinDeVigencia": ""
   }
 ]
