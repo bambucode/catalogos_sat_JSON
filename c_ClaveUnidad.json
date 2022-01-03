@@ -154,7 +154,7 @@
   },
   {
     "id": "64",
-    "nombre": "Libra por pulgada cuadrada, calíbre",
+    "nombre": "Libra por pulgada cuadrada, calibre",
     "descripcion": "",
     "nota": "Unidades no recomendadas para su uso por la Oficina Internacional de Pesos y Medidas (BIPM) con sede en Francia.",
     "fechaDeInicioDeVigencia": "13-08-2017",
@@ -775,7 +775,7 @@
   },
   {
     "id": "34",
-    "nombre": "Kilopascal por milimetro",
+    "nombre": "Kilopascal por milímetro",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -784,7 +784,7 @@
   },
   {
     "id": "35",
-    "nombre": "Milimetro por un segundo centimetro cuadrado",
+    "nombre": "Milímetro por un segundo centímetro cuadrado",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": "A30",
-    "nombre": "Culombio por milimetro cúbico",
+    "nombre": "Culombio por milímetro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "A36",
-    "nombre": "Centimetro cúbico por Mol",
+    "nombre": "Centímetro cúbico por Mol",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": "A37",
-    "nombre": "Decimetro cuadrado por Mol",
+    "nombre": "Decímetro cuadrado por Mol",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "A40",
-    "nombre": "Metro cubbico por Mol",
+    "nombre": "Metro cúbico por Mol",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1693,7 +1693,7 @@
   },
   {
     "id": "A53",
-    "nombre": "Electrónvoltio",
+    "nombre": "Electronvoltio",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "A54",
-    "nombre": "Electrovoltio por metro",
+    "nombre": "Electronvoltio por metro",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1711,7 +1711,7 @@
   },
   {
     "id": "A55",
-    "nombre": "Electrovoltio por metro cuadrado",
+    "nombre": "Electronvoltio por metro cuadrado",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -1720,7 +1720,7 @@
   },
   {
     "id": "A56",
-    "nombre": "Electrovoltio metro cuadrado por kilogramo",
+    "nombre": "Electronvoltio metro cuadrado por kilogramo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -2044,7 +2044,7 @@
   },
   {
     "id": "A9",
-    "nombre": "Tarífa",
+    "nombre": "Tarifa",
     "descripcion": "Unidad de cantidad expresada como una tasa para el uso de una instalación o servicio.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -2278,7 +2278,7 @@
   },
   {
     "id": "AQ",
-    "nombre": "Unidad del factir anti-hemofilico.",
+    "nombre": "Unidad del factor anti-hemofílico.",
     "descripcion": "Unidad de medida para la potencia de la sangre (US).",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -2503,7 +2503,7 @@
   },
   {
     "id": "B20",
-    "nombre": "Joule metro cuadrado por kologramo",
+    "nombre": "Joule metro cuadrado por kilogramo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -2548,7 +2548,7 @@
   },
   {
     "id": "B25",
-    "nombre": "Kilobecquerel por metrocúbico",
+    "nombre": "Kilobecquerel por metro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -3331,7 +3331,7 @@
   },
   {
     "id": "BIL",
-    "nombre": "Billon",
+    "nombre": "Billón",
     "descripcion": "Sinonimo: Trillon en EUA.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": "C35",
-    "nombre": "Mol por decimetro cúbico",
+    "nombre": "Mol por decímetro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -3898,7 +3898,7 @@
   },
   {
     "id": "C56",
-    "nombre": "Newton por milimetro cuadrado",
+    "nombre": "Newton por milímetro cuadrado",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -4249,7 +4249,7 @@
   },
   {
     "id": "C91",
-    "nombre": "Recíprocidad de kelvin ó kelvin a la potencia menos 1",
+    "nombre": "Reciprocidad de kelvin ó kelvin a la potencia menos 1",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -4384,7 +4384,7 @@
   },
   {
     "id": "CGM",
-    "nombre": "Centígramo",
+    "nombre": "Centigramo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -4627,7 +4627,7 @@
   },
   {
     "id": "D16",
-    "nombre": "Centimetro cuadrado por erg",
+    "nombre": "Centímetro cuadrado por erg",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -4636,7 +4636,7 @@
   },
   {
     "id": "D17",
-    "nombre": "Centimetro cuadrado por esteroradian erg",
+    "nombre": "Centímetro cuadrado por esteroradian erg",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -8983,7 +8983,7 @@
   },
   {
     "id": "H15",
-    "nombre": "Centímetro cudrado por gramo",
+    "nombre": "Centímetro cuadrado por gramo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -9298,7 +9298,7 @@
   },
   {
     "id": "H50",
-    "nombre": "Reciprocidad del centimetro cúbico",
+    "nombre": "Reciprocidad del centímetro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -9820,7 +9820,7 @@
   },
   {
     "id": "HGM",
-    "nombre": "Héctogramo",
+    "nombre": "Hectogramo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10648,7 +10648,7 @@
   },
   {
     "id": "J68",
-    "nombre": "Bushel (seco,estados unidos) por día",
+    "nombre": "Bushel (seco, estados unidos) por día",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10657,7 +10657,7 @@
   },
   {
     "id": "J69",
-    "nombre": "Bushel (seco,estados unidos) por hora",
+    "nombre": "Bushel (seco, estados unidos) por hora",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10666,7 +10666,7 @@
   },
   {
     "id": "J70",
-    "nombre": "Bushel (seco,estados unidos) por minuto",
+    "nombre": "Bushel (seco, estados unidos) por minuto",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10675,7 +10675,7 @@
   },
   {
     "id": "J71",
-    "nombre": "Bushel (seco,estados unidos) por segundo",
+    "nombre": "Bushel (seco, estados unidos) por segundo",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10720,7 +10720,7 @@
   },
   {
     "id": "J76",
-    "nombre": "Caloría (tabla internacional) por gramo gadro celsius",
+    "nombre": "Caloría (tabla internacional) por gramo grado celsius",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -10738,7 +10738,7 @@
   },
   {
     "id": "J79",
-    "nombre": "Caloría (termoquímico) por gramo gadro celsius",
+    "nombre": "Caloría (termoquímico) por gramo grado celsius",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -12043,7 +12043,7 @@
   },
   {
     "id": "KNS",
-    "nombre": "Kilogram sustancia nombrada",
+    "nombre": "Kilogramo sustancia nombrada",
     "descripcion": "Unidad de masa igual a un kilogramo de una sustancia llamada.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -12358,7 +12358,7 @@
   },
   {
     "id": "L20",
-    "nombre": "Reciprocidad del milimetro cúbico",
+    "nombre": "Reciprocidad del milímetro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -12367,7 +12367,7 @@
   },
   {
     "id": "L21",
-    "nombre": "Milimetro cúbico por metro cúbico",
+    "nombre": "Milímetro cúbico por metro cúbico",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -12403,7 +12403,7 @@
   },
   {
     "id": "L26",
-    "nombre": "Mol por litreo kelvin",
+    "nombre": "Mol por litro kelvin",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -13411,7 +13411,7 @@
   },
   {
     "id": "M20",
-    "nombre": "Recíproco de megakelvin ó megakelvin a la potencia menos 1",
+    "nombre": "Recíproco de megakelvin o megakelvin a la potencia menos 1",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -13420,7 +13420,7 @@
   },
   {
     "id": "M21",
-    "nombre": "Kilovoltio-amperio hora recíprocidad",
+    "nombre": "Kilovoltio-amperio hora reciprocidad",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -13492,7 +13492,7 @@
   },
   {
     "id": "M30",
-    "nombre": "voltio-amperio segundo recíprocidad",
+    "nombre": "voltio-amperio segundo reciprocidad",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -14311,7 +14311,7 @@
   },
   {
     "id": "MIO",
-    "nombre": "Millon",
+    "nombre": "Millón",
     "descripcion": "Es igual a mil millares, o 106. El concepto de millón también se puede expresar mediante el prefijo mega antepuesto a unidades del SI. Etimología: millón proviene del término italiano milione (del latín: mille).",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -14320,7 +14320,7 @@
   },
   {
     "id": "MIU",
-    "nombre": "Unidad internacional de millon",
+    "nombre": "Unidad internacional de millón",
     "descripcion": "Unidad de cuenta que define el número de unidades internacionales en múltiplos de 106.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -15391,7 +15391,7 @@
   },
   {
     "id": "NCL",
-    "nombre": "Número de celulas",
+    "nombre": "Número de células",
     "descripcion": "Unidad de conteo que define el número de células (célula: un espacio cerrado o circunscrito, cavidad o volumen)",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -15625,7 +15625,7 @@
   },
   {
     "id": "ODE",
-    "nombre": "Equvalente de agotamiento del ozona",
+    "nombre": "Equivalente de agotamiento del ozona",
     "descripcion": "Unidad de masa que define el potencial de agotamiento del ozono en kilogramos de un producto en relación con el agotamiento calculado para la sustancia de referencia Triclorofluorometano (CFC-11).",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -15841,7 +15841,7 @@
   },
   {
     "id": "P21",
-    "nombre": "Kilojoule por dia",
+    "nombre": "Kilojoule por día",
     "descripcion": "Cociente entre 1000 veces de la unida derivada, joule, dividido por la unidad día",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -16039,7 +16039,7 @@
   },
   {
     "id": "P41",
-    "nombre": "Década (logaritmica)",
+    "nombre": "Década (logarítmica)",
     "descripcion": "Una escala logarítmica es una escala de medida que utiliza el logaritmo de una cantidad física en lugar de la propia cantidad.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -16453,7 +16453,7 @@
   },
   {
     "id": "P83",
-    "nombre": "Admosfera estandar por metro.",
+    "nombre": "Atmosfera estándar por metro.",
     "descripcion": "Unidad anticuadas de la presión dividida por la unidad de base metros.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -16462,7 +16462,7 @@
   },
   {
     "id": "P84",
-    "nombre": "Admosfera tecnica por metro.",
+    "nombre": "Atmosfera técnica por metro.",
     "descripcion": "unidad obsoleta y no legal de la presión que se genera por una columna de agua de 10 metros dividida por la unidad de base metros.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -16706,7 +16706,7 @@
   {
     "id": "PQ",
     "nombre": "Página por pulgada",
-    "descripcion": "Unidad de cantidad que define el grado de espesor de una publicación enlazada, expresada como el número de de páginas por pulgada de espesor.",
+    "descripcion": "Unidad de cantidad que define el grado de espesor de una publicación enlazada, expresada como el número de páginas por pulgada de espesor.",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
     "fechaDeFinDeVigencia": "",
@@ -16975,7 +16975,7 @@
   },
   {
     "id": "Q28",
-    "nombre": "Kilograma por metro cuadrado pascal segundo",
+    "nombre": "Kilogramo por metro cuadrado pascal segundo",
     "descripcion": "Unidad para la capacidad de un material para permitir la transición del vapor",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -17209,7 +17209,7 @@
   },
   {
     "id": "QTL",
-    "nombre": "Cuarto de líquido (estadis unidos)",
+    "nombre": "Cuarto de líquido (estados unidos)",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -17560,7 +17560,7 @@
   },
   {
     "id": "SST",
-    "nombre": "Estandar corto (7200 partidos)",
+    "nombre": "Estándar corto (7200 partidos)",
     "descripcion": "",
     "nota": "Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.",
     "fechaDeInicioDeVigencia": "13-08-2017",
@@ -17650,7 +17650,7 @@
   },
   {
     "id": "T0",
-    "nombre": "Linea de telecomunicaciones en servicio",
+    "nombre": "Línea de telecomunicaciones en servicio",
     "descripcion": "Unidad de conteo que define el número de líneas de servicio",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -17767,7 +17767,7 @@
   },
   {
     "id": "TD",
-    "nombre": "Termico",
+    "nombre": "Térmico",
     "descripcion": "",
     "nota": "Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.",
     "fechaDeInicioDeVigencia": "13-08-2017",
@@ -18037,7 +18037,7 @@
   },
   {
     "id": "UB",
-    "nombre": "Linea de telecomunicaciones en servicio promedio ",
+    "nombre": "Línea de telecomunicaciones en servicio promedio ",
     "descripcion": "Unida de conteo que define el número medio de líneas de servicio",
     "nota": "",
     "fechaDeInicioDeVigencia": "01-01-2017",
@@ -18397,7 +18397,7 @@
   },
   {
     "id": "X44",
-    "nombre": "Bolsa de plastico",
+    "nombre": "Bolsa de plástico",
     "descripcion": "Un tipo de bolsa de plástico, normalmente utilizada para envolver piezas promocionales, publicaciones, muestras de productos y / o catálogos.",
     "nota": "",
     "fechaDeInicioDeVigencia": "13-08-2017",
@@ -18649,7 +18649,7 @@
   },
   {
     "id": "XAL",
-    "nombre": "Esféra",
+    "nombre": "Esfera",
     "descripcion": "Recipiente de contención esférico para retener sustancias o artículos.",
     "nota": "",
     "fechaDeInicioDeVigencia": "13-08-2017",
@@ -19837,7 +19837,7 @@
   },
   {
     "id": "XLG",
-    "nombre": "Bitacora",
+    "nombre": "Bitácora",
     "descripcion": "",
     "nota": "",
     "fechaDeInicioDeVigencia": "13-08-2017",

@@ -1,7 +1,7 @@
 [
   {
     "id": "G01",
-    "descripcion": "Adquisición de mercancias",
+    "descripcion": "Adquisición de mercancías",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
     "fechaInicioDeVigencia": "01-01-2017",
@@ -33,7 +33,7 @@
   },
   {
     "id": "I02",
-    "descripcion": "Mobilario y equipo de oficina por inversiones",
+    "descripcion": "Mobiliario y equipo de oficina por inversiones",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
     "fechaInicioDeVigencia": "01-01-2017",
@@ -173,6 +173,6 @@
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
     "fechaInicioDeVigencia": "31-03-2017",
-    "fechaFinDeVigencia": ""
+    "fechaFinDeVigencia": "30-04-2022"
   }
 ]

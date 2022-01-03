@@ -106,7 +106,7 @@
   {
     "id": "622",
     "descripcion": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
-    "fisica": "Sí",
+    "fisica": "No",
     "moral": "Sí",
     "fechaDeInicioDeVigencia": "12-11-2016",
     "fechaDeFinDeVigencia": ""
@@ -173,6 +173,14 @@
     "fisica": "Sí",
     "moral": "No",
     "fechaDeInicioDeVigencia": "01-06-2020",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "626",
+    "descripcion": "Régimen Simplificado de Confianza",
+    "fisica": "Sí",
+    "moral": "Sí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   }
 ]

@@ -45,12 +45,12 @@
     "id": "08",
     "descripcion": "Factura generada por pagos en parcialidades",
     "fechaInicioDeVigencia": "05-12-2017",
-    "fechaFinDeVigencia": ""
+    "fechaFinDeVigencia": "30-04-2022"
   },
   {
     "id": "09",
     "descripcion": "Factura generada por pagos diferidos",
     "fechaInicioDeVigencia": "05-12-2017",
-    "fechaFinDeVigencia": ""
+    "fechaFinDeVigencia": "30-04-2022"
   }
 ]
