@@ -209,7 +209,7 @@
   },
   {
     "id": "CAD",
-    "descripcion": "Dolar Canadiense",
+    "descripcion": "Dólar Canadiense",
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "14/08/2017",
@@ -473,7 +473,7 @@
   },
   {
     "id": "HKD",
-    "descripcion": "Dolar De Hong Kong",
+    "descripcion": "Dólar De Hong Kong",
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "14/08/2017",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": "SGD",
-    "descripcion": "Dolar De Singapur",
+    "descripcion": "Dólar De Singapur",
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "14/08/2017",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "USD",
-    "descripcion": "Dolar americano",
+    "descripcion": "Dólar americano",
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "14/08/2017",
