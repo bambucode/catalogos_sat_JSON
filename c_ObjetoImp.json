@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "descripcion": "No objeto de impuesto.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Sí objeto de impuesto.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Sí objeto del impuesto y no obligado al desglose.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  }
+]
