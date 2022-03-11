@@ -1,0 +1,667 @@
+[
+  {
+    "id": "AGU",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Aguascalientes",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BCN",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Baja California",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BCS",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Baja California Sur",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CAM",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Campeche",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CHP",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Chiapas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CHH",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Chihuahua",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "COA",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Coahuila",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "COL",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Colima",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CMX",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Ciudad de México",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DUR",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Durango",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GUA",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Guanajuato",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GRO",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Guerrero",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HID",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Hidalgo",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "JAL",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Jalisco",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MEX",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Estado de México",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MIC",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Michoacán",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MOR",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Morelos",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NAY",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Nayarit",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NLE",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Nuevo León",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OAX",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Oaxaca",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PUE",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Puebla",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "QUE",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Querétaro",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ROO",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Quintana Roo",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SLP",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "San Luis Potosí",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SIN",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Sinaloa",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SON",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Sonora",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TAB",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Tabasco",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TAM",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Tamaulipas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TLA",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Tlaxcala",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VER",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Veracruz",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "YUC",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Yucatán",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ZAC",
+    "c_Pais": "MEX",
+    "nombreDelEstado": "Zacatecas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AL",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Alabama",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AK",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Alaska",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AZ",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Arizona",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AR",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Arkansas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "California",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NC",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Carolina del Norte",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SC",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Carolina del Sur",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CO",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Colorado",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "CT",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Connecticut",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ND",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Dakota del Norte",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SD",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Dakota del Sur",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "DE",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Delaware",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "FL",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Florida",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Georgia",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "HI",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Hawái",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ID",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Idaho",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IL",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Illinois",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IN",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Indiana",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "IA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Iowa",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KS",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Kansas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "KY",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Kentucky",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "LA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Luisiana",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ME",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Maine",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MD",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Maryland",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Massachusetts",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MI",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Míchigan",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MN",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Minnesota",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MS",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Misisipi",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MO",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Misuri",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MT",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Montana",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NE",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nebraska",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NV",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nevada",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NJ",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nueva Jersey",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NY",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nueva York",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NH",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nuevo Hampshire",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NM",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Nuevo México",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OH",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Ohio",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OK",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Oklahoma",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OR",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Oregón",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Pensilvania",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "RI",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Rhode Island",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TN",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Tennessee",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "TX",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Texas",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UT",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Utah",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VT",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Vermont",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Virginia",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "WV",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Virginia Occidental",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "WA",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Washington",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "WI",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Wisconsin",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "WY",
+    "c_Pais": "USA",
+    "nombreDelEstado": "Wyoming",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ON",
+    "c_Pais": "CAN",
+    "nombreDelEstado": "Ontario ",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "QC",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Quebec ",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NS",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Nueva Escocia",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NB",
+    "c_Pais": "CAN",
+    "nombreDelEstado": "Nuevo Brunswick ",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "MB",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Manitoba",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "BC",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Columbia Británica",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "PE",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Isla del Príncipe Eduardo",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "SK",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Saskatchewan",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "AB",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Alberta",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NL",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Terranova y Labrador",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "NT",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Territorios del Noroeste",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "YT",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Yukón",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "UN",
+    "c_Pais": "CAN",
+    "nombreDelEstado": " Nunavut",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  }
+]

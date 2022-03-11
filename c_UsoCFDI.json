@@ -1,178 +1,218 @@
 [
   {
     "id": "G01",
-    "descripcion": "Adquisición de mercancías",
+    "descripcion": "Adquisición de mercancías.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
   },
   {
     "id": "G02",
-    "descripcion": "Devoluciones, descuentos o bonificaciones",
+    "descripcion": "Devoluciones, descuentos o bonificaciones.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
   },
   {
     "id": "G03",
-    "descripcion": "Gastos en general",
+    "descripcion": "Gastos en general.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I01",
-    "descripcion": "Construcciones",
+    "descripcion": "Construcciones.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I02",
-    "descripcion": "Mobiliario y equipo de oficina por inversiones",
+    "descripcion": "Mobiliario y equipo de oficina por inversiones.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I03",
-    "descripcion": "Equipo de transporte",
+    "descripcion": "Equipo de transporte.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I04",
-    "descripcion": "Equipo de computo y accesorios",
+    "descripcion": "Equipo de computo y accesorios.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I05",
-    "descripcion": "Dados, troqueles, moldes, matrices y herramental",
+    "descripcion": "Dados, troqueles, moldes, matrices y herramental.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I06",
-    "descripcion": "Comunicaciones telefónicas",
+    "descripcion": "Comunicaciones telefónicas.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I07",
-    "descripcion": "Comunicaciones satelitales",
+    "descripcion": "Comunicaciones satelitales.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "I08",
-    "descripcion": "Otra maquinaria y equipo",
+    "descripcion": "Otra maquinaria y equipo.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
   },
   {
     "id": "D01",
     "descripcion": "Honorarios médicos, dentales y gastos hospitalarios.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D02",
-    "descripcion": "Gastos médicos por incapacidad o discapacidad",
+    "descripcion": "Gastos médicos por incapacidad o discapacidad.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D03",
     "descripcion": "Gastos funerales.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D04",
     "descripcion": "Donativos.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D05",
     "descripcion": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D06",
     "descripcion": "Aportaciones voluntarias al SAR.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D07",
     "descripcion": "Primas por seguros de gastos médicos.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D08",
     "descripcion": "Gastos de transportación escolar obligatoria.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D09",
     "descripcion": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
     "id": "D10",
-    "descripcion": "Pagos por servicios educativos (colegiaturas)",
+    "descripcion": "Pagos por servicios educativos (colegiaturas).",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
-    "fechaFinDeVigencia": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
   },
   {
-    "id": "P01",
-    "descripcion": "Por definir",
+    "id": "S01",
+    "descripcion": "Sin efectos fiscales.  ",
     "aplicaParaTipoPersonaFisica": "Sí",
     "aplicaParaTipoPersonaMoral": "Sí",
-    "fechaInicioDeVigencia": "31-03-2017",
-    "fechaFinDeVigencia": "30-04-2022"
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+  },
+  {
+    "id": "CP01",
+    "descripcion": "Pagos",
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "Sí",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+  },
+  {
+    "id": "CN01",
+    "descripcion": "Nómina",
+    "aplicaParaTipoPersonaFisica": "Sí",
+    "aplicaParaTipoPersonaMoral": "No",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": "",
+    "regimenFiscalReceptor": "605"
   }
 ]

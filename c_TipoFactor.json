@@ -1,11 +1,17 @@
 [
   {
-    "id": "Tasa"
+    "id": "Tasa",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   },
   {
-    "id": "Cuota"
+    "id": "Cuota",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   },
   {
-    "id": "Exento"
+    "id": "Exento",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   }
 ]

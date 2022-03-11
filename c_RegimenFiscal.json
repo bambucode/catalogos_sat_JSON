@@ -4,7 +4,7 @@
     "descripcion": "General de Ley Personas Morales",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -12,7 +12,7 @@
     "descripcion": "Personas Morales con Fines no Lucrativos",
     "fisica": "No",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -20,7 +20,7 @@
     "descripcion": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -28,7 +28,15 @@
     "descripcion": "Arrendamiento",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "607",
+    "descripcion": "Régimen de Enajenación o Adquisición de Bienes",
+    "fisica": "Sí",
+    "moral": "No",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -36,23 +44,15 @@
     "descripcion": "Demás ingresos",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "609",
-    "descripcion": "Consolidación",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": "31-12-2019"
   },
   {
     "id": "610",
     "descripcion": "Residentes en el Extranjero sin Establecimiento Permanente en México",
     "fisica": "Sí",
     "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -60,7 +60,7 @@
     "descripcion": "Ingresos por Dividendos (socios y accionistas)",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "Personas Físicas con Actividades Empresariales y Profesionales",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -76,87 +76,7 @@
     "descripcion": "Ingresos por intereses",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "616",
-    "descripcion": "Sin obligaciones fiscales",
-    "fisica": "Sí",
-    "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "620",
-    "descripcion": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "621",
-    "descripcion": "Incorporación Fiscal",
-    "fisica": "Sí",
-    "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "622",
-    "descripcion": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "623",
-    "descripcion": "Opcional para Grupos de Sociedades",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "624",
-    "descripcion": "Coordinados",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "628",
-    "descripcion": "Hidrocarburos",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "01-01-2024",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "607",
-    "descripcion": "Régimen de Enajenación o Adquisición de Bienes",
-    "fisica": "No",
-    "moral": "Sí",
-    "fechaDeInicioDeVigencia": "12-11-2016",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "629",
-    "descripcion": "De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales",
-    "fisica": "Sí",
-    "moral": "No",
-    "fechaDeInicioDeVigencia": "01-01-2024",
-    "fechaDeFinDeVigencia": ""
-  },
-  {
-    "id": "630",
-    "descripcion": "Enajenación de acciones en bolsa de valores",
-    "fisica": "Sí",
-    "moral": "No",
-    "fechaDeInicioDeVigencia": "01-01-2024",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -164,7 +84,55 @@
     "descripcion": "Régimen de los ingresos por obtención de premios",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "12-11-2016",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "616",
+    "descripcion": "Sin obligaciones fiscales",
+    "fisica": "Sí",
+    "moral": "No",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "620",
+    "descripcion": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
+    "fisica": "No",
+    "moral": "Sí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "621",
+    "descripcion": "Incorporación Fiscal",
+    "fisica": "Sí",
+    "moral": "No",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "622",
+    "descripcion": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
+    "fisica": "No",
+    "moral": "Sí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "623",
+    "descripcion": "Opcional para Grupos de Sociedades",
+    "fisica": "No",
+    "moral": "Sí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "id": "624",
+    "descripcion": "Coordinados",
+    "fisica": "No",
+    "moral": "Sí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -172,7 +140,7 @@
     "descripcion": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
     "fisica": "Sí",
     "moral": "No",
-    "fechaDeInicioDeVigencia": "01-06-2020",
+    "fechaDeInicioDeVigencia": "01-01-2022",
     "fechaDeFinDeVigencia": ""
   },
   {

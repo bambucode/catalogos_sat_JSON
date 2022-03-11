@@ -4,7 +4,7 @@
     "descripcion": "Dirham de EAU",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -12,7 +12,7 @@
     "descripcion": "Afghani",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -20,7 +20,7 @@
     "descripcion": "Lek",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -28,7 +28,7 @@
     "descripcion": "Dram armenio",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -36,7 +36,7 @@
     "descripcion": "Florín antillano neerlandés",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -44,7 +44,7 @@
     "descripcion": "Kwanza",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -52,7 +52,7 @@
     "descripcion": "Peso Argentino",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -60,7 +60,7 @@
     "descripcion": "Dólar Australiano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "Aruba Florin",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -76,7 +76,7 @@
     "descripcion": "Azerbaijanian Manat",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -84,7 +84,7 @@
     "descripcion": "Convertibles marca",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -92,7 +92,7 @@
     "descripcion": "Dólar de Barbados",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -100,7 +100,7 @@
     "descripcion": "Taka",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -108,7 +108,7 @@
     "descripcion": "Lev búlgaro",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -116,7 +116,7 @@
     "descripcion": "Dinar de Bahrein",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -124,7 +124,7 @@
     "descripcion": "Burundi Franc",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -132,7 +132,7 @@
     "descripcion": "Dólar de Bermudas",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -140,7 +140,7 @@
     "descripcion": "Dólar de Brunei",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -148,7 +148,7 @@
     "descripcion": "Boliviano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -156,7 +156,7 @@
     "descripcion": "Mvdol",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -164,7 +164,7 @@
     "descripcion": "Real brasileño",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -172,7 +172,7 @@
     "descripcion": "Dólar de las Bahamas",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -180,7 +180,7 @@
     "descripcion": "Ngultrum",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -188,7 +188,7 @@
     "descripcion": "Pula",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -196,7 +196,7 @@
     "descripcion": "Rublo bielorruso",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -204,7 +204,7 @@
     "descripcion": "Dólar de Belice",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -212,7 +212,7 @@
     "descripcion": "Dólar Canadiense",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -220,7 +220,7 @@
     "descripcion": "Franco congoleño",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -228,7 +228,7 @@
     "descripcion": "WIR Euro",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -236,7 +236,7 @@
     "descripcion": "Franco Suizo",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -244,7 +244,7 @@
     "descripcion": "Franc WIR",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -252,7 +252,7 @@
     "descripcion": "Unidad de Fomento",
     "decimales": "4",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -260,7 +260,7 @@
     "descripcion": "Peso chileno",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -268,7 +268,7 @@
     "descripcion": "Yuan Renminbi",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -276,7 +276,7 @@
     "descripcion": "Peso Colombiano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -284,7 +284,7 @@
     "descripcion": "Unidad de Valor real",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -292,7 +292,7 @@
     "descripcion": "Colón costarricense",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -300,7 +300,7 @@
     "descripcion": "Peso Convertible",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -308,7 +308,7 @@
     "descripcion": "Peso Cubano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -316,7 +316,7 @@
     "descripcion": "Cabo Verde Escudo",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -324,7 +324,7 @@
     "descripcion": "Corona checa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -332,7 +332,7 @@
     "descripcion": "Franco de Djibouti",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -340,7 +340,7 @@
     "descripcion": "Corona danesa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -348,7 +348,7 @@
     "descripcion": "Peso Dominicano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -356,7 +356,7 @@
     "descripcion": "Dinar argelino",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -364,7 +364,7 @@
     "descripcion": "Libra egipcia",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -372,7 +372,7 @@
     "descripcion": "Nakfa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -380,7 +380,7 @@
     "descripcion": "Birr etíope",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -388,7 +388,7 @@
     "descripcion": "Euro",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -396,7 +396,7 @@
     "descripcion": "Dólar de Fiji",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -404,7 +404,7 @@
     "descripcion": "Libra malvinense",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -412,7 +412,7 @@
     "descripcion": "Libra Esterlina",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -420,7 +420,7 @@
     "descripcion": "Lari",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -428,7 +428,7 @@
     "descripcion": "Cedi de Ghana",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -436,7 +436,7 @@
     "descripcion": "Libra de Gibraltar",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -444,7 +444,7 @@
     "descripcion": "Dalasi",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -452,7 +452,7 @@
     "descripcion": "Franco guineano",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -460,7 +460,7 @@
     "descripcion": "Quetzal",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -468,7 +468,7 @@
     "descripcion": "Dólar guyanés",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -476,7 +476,7 @@
     "descripcion": "Dólar De Hong Kong",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -484,7 +484,7 @@
     "descripcion": "Lempira",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -492,7 +492,7 @@
     "descripcion": "Kuna",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -500,7 +500,7 @@
     "descripcion": "Gourde",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -508,7 +508,7 @@
     "descripcion": "Florín",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -516,7 +516,7 @@
     "descripcion": "Rupia",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -524,7 +524,7 @@
     "descripcion": "Nuevo Shekel Israelí",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -532,7 +532,7 @@
     "descripcion": "Rupia india",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -540,7 +540,7 @@
     "descripcion": "Dinar iraquí",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -548,7 +548,7 @@
     "descripcion": "Rial iraní",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -556,7 +556,7 @@
     "descripcion": "Corona islandesa",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -564,7 +564,7 @@
     "descripcion": "Dólar Jamaiquino",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -572,7 +572,7 @@
     "descripcion": "Dinar jordano",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -580,7 +580,7 @@
     "descripcion": "Yen",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -588,7 +588,7 @@
     "descripcion": "Chelín keniano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -596,7 +596,7 @@
     "descripcion": "Som",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -604,7 +604,7 @@
     "descripcion": "Riel",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -612,7 +612,7 @@
     "descripcion": "Franco Comoro",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -620,7 +620,7 @@
     "descripcion": "Corea del Norte ganó",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -628,7 +628,7 @@
     "descripcion": "Won",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -636,7 +636,7 @@
     "descripcion": "Dinar kuwaití",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -644,7 +644,7 @@
     "descripcion": "Dólar de las Islas Caimán",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -652,7 +652,7 @@
     "descripcion": "Tenge",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -660,7 +660,7 @@
     "descripcion": "Kip",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -668,7 +668,7 @@
     "descripcion": "Libra libanesa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -676,7 +676,7 @@
     "descripcion": "Rupia de Sri Lanka",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -684,7 +684,7 @@
     "descripcion": "Dólar liberiano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -692,7 +692,7 @@
     "descripcion": "Loti",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -700,7 +700,7 @@
     "descripcion": "Dinar libio",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -708,7 +708,7 @@
     "descripcion": "Dirham marroquí",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -716,7 +716,7 @@
     "descripcion": "Leu moldavo",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -724,7 +724,7 @@
     "descripcion": "Ariary malgache",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -732,7 +732,7 @@
     "descripcion": "Denar",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -740,7 +740,7 @@
     "descripcion": "Kyat",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -748,7 +748,7 @@
     "descripcion": "Tugrik",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -756,7 +756,7 @@
     "descripcion": "Pataca",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -764,7 +764,7 @@
     "descripcion": "Ouguiya",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -772,7 +772,7 @@
     "descripcion": "Rupia de Mauricio",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -780,7 +780,7 @@
     "descripcion": "Rupia",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -788,7 +788,7 @@
     "descripcion": "Kwacha",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -796,7 +796,7 @@
     "descripcion": "Peso Mexicano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -804,7 +804,7 @@
     "descripcion": "México Unidad de Inversión (UDI)",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -812,7 +812,7 @@
     "descripcion": "Ringgit malayo",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -820,7 +820,7 @@
     "descripcion": "Mozambique Metical",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -828,7 +828,7 @@
     "descripcion": "Dólar de Namibia",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -836,7 +836,7 @@
     "descripcion": "Naira",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -844,7 +844,7 @@
     "descripcion": "Córdoba Oro",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -852,7 +852,7 @@
     "descripcion": "Corona noruega",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -860,7 +860,7 @@
     "descripcion": "Rupia nepalí",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -868,7 +868,7 @@
     "descripcion": "Dólar de Nueva Zelanda",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -876,7 +876,7 @@
     "descripcion": "Rial omaní",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -884,7 +884,7 @@
     "descripcion": "Balboa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -892,7 +892,7 @@
     "descripcion": "Nuevo Sol",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -900,7 +900,7 @@
     "descripcion": "Kina",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -908,7 +908,7 @@
     "descripcion": "Peso filipino",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -916,7 +916,7 @@
     "descripcion": "Rupia de Pakistán",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -924,7 +924,7 @@
     "descripcion": "Zloty",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -932,7 +932,7 @@
     "descripcion": "Guaraní",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -940,7 +940,7 @@
     "descripcion": "Qatar Rial",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -948,7 +948,7 @@
     "descripcion": "Leu rumano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -956,7 +956,7 @@
     "descripcion": "Dinar serbio",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -964,7 +964,7 @@
     "descripcion": "Rublo ruso",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -972,7 +972,7 @@
     "descripcion": "Franco ruandés",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -980,7 +980,7 @@
     "descripcion": "Riyal saudí",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -988,7 +988,7 @@
     "descripcion": "Dólar de las Islas Salomón",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -996,7 +996,7 @@
     "descripcion": "Rupia de Seychelles",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1004,7 +1004,7 @@
     "descripcion": "Libra sudanesa",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1012,7 +1012,7 @@
     "descripcion": "Corona sueca",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1020,7 +1020,7 @@
     "descripcion": "Dólar De Singapur",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1028,7 +1028,7 @@
     "descripcion": "Libra de Santa Helena",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1036,7 +1036,7 @@
     "descripcion": "Leona",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1044,7 +1044,7 @@
     "descripcion": "Chelín somalí",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1052,7 +1052,7 @@
     "descripcion": "Dólar de Suriname",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1060,7 +1060,7 @@
     "descripcion": "Libra sudanesa Sur",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1068,7 +1068,7 @@
     "descripcion": "Dobra",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1076,7 +1076,7 @@
     "descripcion": "Colon El Salvador",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1084,7 +1084,7 @@
     "descripcion": "Libra Siria",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1092,7 +1092,7 @@
     "descripcion": "Lilangeni",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1100,7 +1100,7 @@
     "descripcion": "Baht",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1108,7 +1108,7 @@
     "descripcion": "Somoni",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1116,7 +1116,7 @@
     "descripcion": "Turkmenistán nuevo manat",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1124,7 +1124,7 @@
     "descripcion": "Dinar tunecino",
     "decimales": "3",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1132,7 +1132,7 @@
     "descripcion": "Pa'anga",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1140,7 +1140,7 @@
     "descripcion": "Lira turca",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1148,7 +1148,7 @@
     "descripcion": "Dólar de Trinidad y Tobago",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1156,7 +1156,7 @@
     "descripcion": "Nuevo dólar de Taiwán",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1164,7 +1164,7 @@
     "descripcion": "Shilling tanzano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1172,7 +1172,7 @@
     "descripcion": "Hryvnia",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1180,7 +1180,7 @@
     "descripcion": "Shilling de Uganda",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1188,7 +1188,7 @@
     "descripcion": "Dólar americano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "descripcion": "Dólar estadounidense (día siguiente)",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1204,7 +1204,7 @@
     "descripcion": "Peso Uruguay en Unidades Indexadas (URUIURUI)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1212,7 +1212,7 @@
     "descripcion": "Peso Uruguayo",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1220,7 +1220,7 @@
     "descripcion": "Uzbekistán Sum",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1228,7 +1228,7 @@
     "descripcion": "Bolívar",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1236,7 +1236,7 @@
     "descripcion": "Dong",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1244,7 +1244,7 @@
     "descripcion": "Vatu",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1252,7 +1252,7 @@
     "descripcion": "Tala",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1260,7 +1260,7 @@
     "descripcion": "Franco CFA BEAC",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1268,7 +1268,7 @@
     "descripcion": "Plata",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1276,7 +1276,7 @@
     "descripcion": "Oro",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1284,7 +1284,7 @@
     "descripcion": "Unidad de Mercados de Bonos Unidad Europea Composite (EURCO)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1292,7 +1292,7 @@
     "descripcion": "Unidad Monetaria de Bonos de Mercados Unidad Europea (UEM-6)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1300,7 +1300,7 @@
     "descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 9 (UCE-9)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1308,7 +1308,7 @@
     "descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 17 (UCE-17)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1316,7 +1316,7 @@
     "descripcion": "Dólar del Caribe Oriental",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1324,7 +1324,7 @@
     "descripcion": "DEG (Derechos Especiales de Giro)",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1332,7 +1332,7 @@
     "descripcion": "Franco CFA BCEAO",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1340,7 +1340,7 @@
     "descripcion": "Paladio",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1348,7 +1348,7 @@
     "descripcion": "Franco CFP",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1356,7 +1356,7 @@
     "descripcion": "Platino",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1364,7 +1364,7 @@
     "descripcion": "Sucre",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1372,7 +1372,7 @@
     "descripcion": "Códigos reservados específicamente para propósitos de prueba",
     "decimales": "0",
     "porcentajeVariacion": "",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1380,7 +1380,7 @@
     "descripcion": "Unidad ADB de Cuenta",
     "decimales": "0",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1388,7 +1388,7 @@
     "descripcion": "Los códigos asignados para las transacciones en que intervenga ninguna moneda",
     "decimales": "0",
     "porcentajeVariacion": "",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "descripcion": "Rial yemení",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1404,7 +1404,7 @@
     "descripcion": "Rand",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1412,7 +1412,7 @@
     "descripcion": "Kwacha zambiano",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -1420,7 +1420,7 @@
     "descripcion": "Zimbabwe Dólar",
     "decimales": "2",
     "porcentajeVariacion": "05",
-    "fechaInicioDeVigencia": "14/08/2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   }
 ]
