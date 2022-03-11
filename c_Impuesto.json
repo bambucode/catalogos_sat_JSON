@@ -5,7 +5,8 @@
     "retencion": "Si",
     "traslado": "No",
     "localOFederal": "Federal",
-    "entidadEnLaQueAplica": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "002",
@@ -13,7 +14,8 @@
     "retencion": "Si",
     "traslado": "Si",
     "localOFederal": "Federal",
-    "entidadEnLaQueAplica": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   },
   {
     "id": "003",
@@ -21,6 +23,7 @@
     "retencion": "Si",
     "traslado": "Si",
     "localOFederal": "Federal",
-    "entidadEnLaQueAplica": ""
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "descripcion": "No aplica",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Definitiva con clave A1",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Temporal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF",
+    "fechaInicioDeVigencia": "25-02-2022",
+    "fechaFinDeVigencia": ""
+  }
+]
