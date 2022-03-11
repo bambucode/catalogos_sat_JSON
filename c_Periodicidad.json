@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "descripcion": "Diario",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Semanal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Quincenal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Mensual",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Bimestral",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  }
+]

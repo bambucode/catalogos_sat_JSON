@@ -12,7 +12,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -28,7 +28,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -44,7 +44,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10}|[0-9]{18}",
     "tipoCadenaPago": "Opcional",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -60,7 +60,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -76,7 +76,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -92,7 +92,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -108,7 +108,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -124,7 +124,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -140,7 +140,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -156,7 +156,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -172,7 +172,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -188,7 +188,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -204,7 +204,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -220,7 +220,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -236,7 +236,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -252,7 +252,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -268,7 +268,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -284,7 +284,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -300,7 +300,7 @@
     "patronParaCuentaBeneficiaria": "[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Si el RFC del emisor de la cuenta ordenante es XEXX010101000, este campo es obligatorio.",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -316,7 +316,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "13-08-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -332,7 +332,7 @@
     "patronParaCuentaBeneficiaria": "No",
     "tipoCadenaPago": "No",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "No",
-    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   },
   {
@@ -348,7 +348,7 @@
     "patronParaCuentaBeneficiaria": "Opcional",
     "tipoCadenaPago": "Opcional",
     "nombreDelBancoEmisorDeLaCuentaOrdenanteEnCasoDeExtranjero": "Opcional",
-    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
   }
 ]

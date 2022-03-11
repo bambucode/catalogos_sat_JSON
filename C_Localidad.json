@@ -1,0 +1,4650 @@
+[
+  {
+    "c_Localidad": "01",
+    "c_Estado": "AGU",
+    "descripcion": "Aguascalientes",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "BCN",
+    "descripcion": "Ensenada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "BCS",
+    "descripcion": "Ciudad Constitución",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "CAM",
+    "descripcion": "San Francisco de Campeche",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "COA",
+    "descripcion": "Ciudad Acuña",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "COL",
+    "descripcion": "Colima",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "CHH",
+    "descripcion": "Santa Rosalía de Camargo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "CHP",
+    "descripcion": "Comitán de Domínguez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "DUR",
+    "descripcion": "Victoria de Durango",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "GRO",
+    "descripcion": "Acapulco de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "GUA",
+    "descripcion": "Acámbaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "HID",
+    "descripcion": "Actopan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "JAL",
+    "descripcion": "Ameca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "MEX",
+    "descripcion": "Ciudad Adolfo López Mateos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "MIC",
+    "descripcion": "Apatzingán de la Constitución",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "MOR",
+    "descripcion": "Cuautla (Cuautla de Morelos)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "NAY",
+    "descripcion": "Santiago Ixcuintla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "NLE",
+    "descripcion": "Ciudad Apodaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "OAX",
+    "descripcion": "Juchitán (Juchitán de Zaragoza)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "PUE",
+    "descripcion": "Atlixco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "QUE",
+    "descripcion": "Querétaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "ROO",
+    "descripcion": "Cancún",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "SIN",
+    "descripcion": "Los Mochis",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "SLP",
+    "descripcion": "Ciudad Valles",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "SON",
+    "descripcion": "San Luis Río Colorado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "TAB",
+    "descripcion": "Cárdenas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "TAM",
+    "descripcion": "Altamira",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "TLA",
+    "descripcion": "Apizaco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "VER",
+    "descripcion": "Acayucan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "YUC",
+    "descripcion": "Mérida",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "01",
+    "c_Estado": "ZAC",
+    "descripcion": "Fresnillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "AGU",
+    "descripcion": "Calvillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "BCN",
+    "descripcion": "Mexicali",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "BCS",
+    "descripcion": "La Paz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "CAM",
+    "descripcion": "Ciudad del Carmen",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "COA",
+    "descripcion": "Frontera",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "COL",
+    "descripcion": "Manzanillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "CHH",
+    "descripcion": "Chihuahua",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "CHP",
+    "descripcion": "San Cristóbal de las Casas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "DUR",
+    "descripcion": "Gómez Palacio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "GRO",
+    "descripcion": "Chilpancingo de los Bravo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "GUA",
+    "descripcion": "San miguel de Allende",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "HID",
+    "descripcion": "Apan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "JAL",
+    "descripcion": "Ciudad Guzmán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "MEX",
+    "descripcion": "Chimalhuacán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "MIC",
+    "descripcion": "Los Reyes de Salgado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "MOR",
+    "descripcion": "Cuernavaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "NAY",
+    "descripcion": "Tepic",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "NLE",
+    "descripcion": "San Pedro Garza García",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "OAX",
+    "descripcion": "Oaxaca de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "PUE",
+    "descripcion": "Izúcar de Matamoros",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "QUE",
+    "descripcion": "San Juan del Rio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "ROO",
+    "descripcion": "Cozumel",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "SIN",
+    "descripcion": "Culiacán Rosales",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "SLP",
+    "descripcion": "Ébano",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "SON",
+    "descripcion": "Agua Prieta",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "TAB",
+    "descripcion": "Villahermosa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Camargo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "TLA",
+    "descripcion": "Villa Vicente Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "VER",
+    "descripcion": "Naranjos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "YUC",
+    "descripcion": "Tizimín",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "02",
+    "c_Estado": "ZAC",
+    "descripcion": "Jerez de García Salinas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "AGU",
+    "descripcion": "San Francisco de los Romo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "BCN",
+    "descripcion": "Tecate",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "BCS",
+    "descripcion": "Cabo San Lucas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "CAM",
+    "descripcion": "Calkiní",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "COA",
+    "descripcion": "Matamoros",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "COL",
+    "descripcion": "Tecoman",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "CHH",
+    "descripcion": "Cuauhtémoc",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "CHP",
+    "descripcion": "Tapachula de Córdova y Ordóñez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "DUR",
+    "descripcion": "Ciudad Lerdo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "GRO",
+    "descripcion": "Iguala de la Independencia",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "GUA",
+    "descripcion": "Celaya",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "HID",
+    "descripcion": "Pachuca de Soto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "JAL",
+    "descripcion": "Guadalajara",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "MEX",
+    "descripcion": "Coacalco de Berriozabal",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "MIC",
+    "descripcion": "Ciudad Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "MOR",
+    "descripcion": "Galeana",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "NAY",
+    "descripcion": "Tuxpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "NLE",
+    "descripcion": "Ciudad General Escobedo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "OAX",
+    "descripcion": "Salina Cruz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "PUE",
+    "descripcion": "Puebla (Heroica Puebla)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "ROO",
+    "descripcion": "Felipe Carrillo Puerto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "SIN",
+    "descripcion": "Escuinapa de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "SLP",
+    "descripcion": "Matehuala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "SON",
+    "descripcion": "Heroica Caborca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "TAB",
+    "descripcion": "Comalcalco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Madero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "TLA",
+    "descripcion": "Tlaxcala (Tlaxcala de Xicotencatl)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "VER",
+    "descripcion": "Boca del RÍo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "YUC",
+    "descripcion": "Ticul",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "03",
+    "c_Estado": "ZAC",
+    "descripcion": "Zacatecas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "AGU",
+    "descripcion": "Jesús María",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "BCN",
+    "descripcion": "Tijuana",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "BCS",
+    "descripcion": "San José del Cabo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "CAM",
+    "descripcion": "Candelaria",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "COA",
+    "descripcion": "Monclova",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "COL",
+    "descripcion": "Ciudad de Villa de Álvarez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "CHH",
+    "descripcion": "Delicias",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "CHP",
+    "descripcion": "Tuxtla Gutiérrez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "DUR",
+    "descripcion": "Santiago Papasquiaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "GRO",
+    "descripcion": "Taxco de Alarcón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "GUA",
+    "descripcion": "Cortazar",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "HID",
+    "descripcion": "Cd. de Fray Bernardino de Sahagún",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "JAL",
+    "descripcion": "Lagos de Moreno",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "MEX",
+    "descripcion": "Cuautitlán Izcalli",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "MIC",
+    "descripcion": "Jacona de Plancarte",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "MOR",
+    "descripcion": "Jojutla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "NAY",
+    "descripcion": "Acaponeta",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "NLE",
+    "descripcion": "Guadalupe",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "OAX",
+    "descripcion": "San Juan Bautista Tuxtepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "PUE",
+    "descripcion": "San Martín Texmelucan de Labastida",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "QUE",
+    "descripcion": "El Pueblito",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "ROO",
+    "descripcion": "Chetumal",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "SIN",
+    "descripcion": "Guasave",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "SLP",
+    "descripcion": "Rioverde",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "SON",
+    "descripcion": "Ciudad Obregón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "TAB",
+    "descripcion": "Emiliano Zapata",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Mante",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "TLA",
+    "descripcion": "Huamantla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "VER",
+    "descripcion": "Coatepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "YUC",
+    "descripcion": "Motul de Carrillo Puerto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "04",
+    "c_Estado": "ZAC",
+    "descripcion": "Guadalupe",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "AGU",
+    "descripcion": "Pabellón de Arteaga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "BCN",
+    "descripcion": "Playas de Rosarito",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "BCS",
+    "descripcion": "Loreto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "CAM",
+    "descripcion": "Escárcega",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "COA",
+    "descripcion": "Parras de la Fuente",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "COL",
+    "descripcion": "Ciudad de Armería",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "CHH",
+    "descripcion": "Hidalgo del Parral",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "CHP",
+    "descripcion": "Venustiano Carranza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "DUR",
+    "descripcion": "Canatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "GRO",
+    "descripcion": "Arcelia",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "GUA",
+    "descripcion": "Guanajuato",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "HID",
+    "descripcion": "Tula de Allende",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "JAL",
+    "descripcion": "Ocotlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "MEX",
+    "descripcion": "Ecatepec de Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "MIC",
+    "descripcion": "La piedad de Cabadas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "MOR",
+    "descripcion": "Puente de Ixtla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "NAY",
+    "descripcion": "Tecuala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "NLE",
+    "descripcion": "Linares",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "OAX",
+    "descripcion": "Matías Romero Avendaño",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "PUE",
+    "descripcion": "Tehuacan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "ROO",
+    "descripcion": "Playa del Carmen",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "SIN",
+    "descripcion": "Mazatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "SLP",
+    "descripcion": "San Luis Potosí",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "SON",
+    "descripcion": "Empalme",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "TAB",
+    "descripcion": "Jalpa de Méndez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "TAM",
+    "descripcion": "Heroica Matamoros",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "TLA",
+    "descripcion": "Calpulalpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "VER",
+    "descripcion": "Agua dulce",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "YUC",
+    "descripcion": "Valladolid",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "05",
+    "c_Estado": "ZAC",
+    "descripcion": "Río Grande",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "AGU",
+    "descripcion": "Rincón de Romos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "BCN",
+    "descripcion": "Rodolfo Sánchez T. (Maneadero)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "BCS",
+    "descripcion": "Puerto Adolfo López Mateos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "CAM",
+    "descripcion": "Sabancuy",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "COA",
+    "descripcion": "Piedras Negras",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "CHH",
+    "descripcion": "Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "CHP",
+    "descripcion": "Jiquipilas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "DUR",
+    "descripcion": "San Juan del Río del Centauro del Norte",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "GRO",
+    "descripcion": "Ayutla de los Libres",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "GUA",
+    "descripcion": "Irapuato",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "HID",
+    "descripcion": "Tulancingo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "JAL",
+    "descripcion": "Puerto Vallarta",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "MEX",
+    "descripcion": "Huixquilucan de Degollado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "MIC",
+    "descripcion": "Morelia",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "MOR",
+    "descripcion": "Santa Rosa Treinta",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "NAY",
+    "descripcion": "Compostela",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "NLE",
+    "descripcion": "Montemorelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "OAX",
+    "descripcion": "Heroica Ciudad de Huajuapan de León",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "PUE",
+    "descripcion": "Teziutlan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "ROO",
+    "descripcion": "Kantunilkin",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "SIN",
+    "descripcion": "Guamúchil",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "SLP",
+    "descripcion": "Soledad de Graciano Sánchez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "SON",
+    "descripcion": "Heroica Guaymas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "TAM",
+    "descripcion": "Nuevo Laredo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "TLA",
+    "descripcion": "Chiautempan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "VER",
+    "descripcion": "Coatzacoalcos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "YUC",
+    "descripcion": "Kanasín",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "06",
+    "c_Estado": "ZAC",
+    "descripcion": "Ciudad Cuauhtémoc",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "AGU",
+    "descripcion": "Asientos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "BCN",
+    "descripcion": "San Felipe",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "BCS",
+    "descripcion": "Todos Santos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "CAM",
+    "descripcion": "Hopelchén",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "COA",
+    "descripcion": "Sabinas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "CHH",
+    "descripcion": "Nuevo Casas Grandes",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "CHP",
+    "descripcion": "Villaflores",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "DUR",
+    "descripcion": "Peñón Blanco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "GRO",
+    "descripcion": "Atoyac de Álvarez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "GUA",
+    "descripcion": "León de los Aldama",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "HID",
+    "descripcion": "Zimapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "JAL",
+    "descripcion": "San Juan de los Lagos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "MEX",
+    "descripcion": "Los Reyes Acaquilpan (La Paz)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "MIC",
+    "descripcion": "Pátzcuaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "MOR",
+    "descripcion": "Zacatepec de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "NAY",
+    "descripcion": "Francisco I. Madero (Puga)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "NLE",
+    "descripcion": "Monterrey",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "OAX",
+    "descripcion": "Loma Bonita",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "PUE",
+    "descripcion": "San Andrés Cholula",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "ROO",
+    "descripcion": "Isla Mujeres",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "SIN",
+    "descripcion": "Navolato",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "SLP",
+    "descripcion": "Charcas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "SON",
+    "descripcion": "Hermosillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "TAB",
+    "descripcion": "Macuspana",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "TAM",
+    "descripcion": "Reynosa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "VER",
+    "descripcion": "Córdoba",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "07",
+    "c_Estado": "ZAC",
+    "descripcion": "Ojocaliente",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "AGU",
+    "descripcion": "Tepezalá",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "BCS",
+    "descripcion": "Heroica Mulegé",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "CAM",
+    "descripcion": "Champotón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "COA",
+    "descripcion": "Saltillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "CHP",
+    "descripcion": "Las Margaritas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "DUR",
+    "descripcion": "Francisco I. Madero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "GUA",
+    "descripcion": "Moroleón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "HID",
+    "descripcion": "Huejutla de Reyes",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "JAL",
+    "descripcion": "Tepatitlán de Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "MEX",
+    "descripcion": "Metepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "MIC",
+    "descripcion": "Sahuayo de Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "MOR",
+    "descripcion": "Tlaquiltenango",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "NAY",
+    "descripcion": "Villa Hidalgo (El Nuevo)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "NLE",
+    "descripcion": "Ciudad Sabinas Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "OAX",
+    "descripcion": "Puerto Escondido",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "PUE",
+    "descripcion": "San Pedro Cholula",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "ROO",
+    "descripcion": "Bacalar",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "SIN",
+    "descripcion": "Quila",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "SLP",
+    "descripcion": "Salinas de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "SON",
+    "descripcion": "Huatabampo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "TAB",
+    "descripcion": "Tenosique de Pino Suárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Río Bravo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "VER",
+    "descripcion": "Tres Valles",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "08",
+    "c_Estado": "ZAC",
+    "descripcion": "Villa Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "AGU",
+    "descripcion": "Cosío",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "BCS",
+    "descripcion": "Villa Alberto Andrés Alvarado Arámburo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "CAM",
+    "descripcion": "Hecelchakán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "COA",
+    "descripcion": "Nueva Rosita",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "CHH",
+    "descripcion": "Madera",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "CHP",
+    "descripcion": "Arriaga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "DUR",
+    "descripcion": "Nombre de Dios",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "GRO",
+    "descripcion": "San Jerónimo de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "GUA",
+    "descripcion": "Salamanca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "HID",
+    "descripcion": "Tlaxcoapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "JAL",
+    "descripcion": "Tlaquepaque",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "MEX",
+    "descripcion": "Naucalpan de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "MIC",
+    "descripcion": "Uruapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "NAY",
+    "descripcion": "Ruiz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "NLE",
+    "descripcion": "San Nicolás de los Garza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "OAX",
+    "descripcion": "Río Grande o Piedra Parada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "PUE",
+    "descripcion": "Huauchinango",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "SIN",
+    "descripcion": "Ahome",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "SLP",
+    "descripcion": "Cárdenas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "SON",
+    "descripcion": "Navojoa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "TAB",
+    "descripcion": "Teapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "TAM",
+    "descripcion": "San Fernando",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "VER",
+    "descripcion": "Jáltipan de Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "09",
+    "c_Estado": "ZAC",
+    "descripcion": "Villanueva",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "BCS",
+    "descripcion": "San Ignacio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "COA",
+    "descripcion": "San Pedro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "CHH",
+    "descripcion": "Colonia Anáhuac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "CHP",
+    "descripcion": "Palenque",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "DUR",
+    "descripcion": "Vicente Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "GRO",
+    "descripcion": "Ciudad Apaxtla de Castrejón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "GUA",
+    "descripcion": "San Francisco del Rincón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "HID",
+    "descripcion": "Tizayuca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "JAL",
+    "descripcion": "Zapopan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "MEX",
+    "descripcion": "Ciudad Nezahualcoyotl",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "MIC",
+    "descripcion": "Zacapu",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "NAY",
+    "descripcion": "San Blas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "NLE",
+    "descripcion": "Ciudad Santa Catarina",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "PUE",
+    "descripcion": "Acatlán de Osorio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "SIN",
+    "descripcion": "Higuera de Zaragoza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "SLP",
+    "descripcion": "Cerritos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "SON",
+    "descripcion": "Heroica Nogales",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "TAB",
+    "descripcion": "Paraíso",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "TAM",
+    "descripcion": "Tampico",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "VER",
+    "descripcion": "Xalapa-Enríquez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "10",
+    "c_Estado": "ZAC",
+    "descripcion": "Villa de Cos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "BCS",
+    "descripcion": "Guerrero Negro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "CAM",
+    "descripcion": "Pomuch",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "COA",
+    "descripcion": "Torreón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "CHH",
+    "descripcion": "Juan Aldama",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "CHP",
+    "descripcion": "Ocosingo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "DUR",
+    "descripcion": "El Salto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "GRO",
+    "descripcion": "Ciudad Altamirano",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "GUA",
+    "descripcion": "Silao",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "HID",
+    "descripcion": "Santiago Tulantepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "JAL",
+    "descripcion": "Tlajomulco de Zúñiga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "MEX",
+    "descripcion": "Villa Nicolás Romero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "MIC",
+    "descripcion": "Zamora de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "NAY",
+    "descripcion": "Ixtlán del Río",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "NLE",
+    "descripcion": "Doctor Arroyo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "OAX",
+    "descripcion": "Santiago Suchilquitongo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "PUE",
+    "descripcion": "Cuautlancingo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "SIN",
+    "descripcion": "Choix",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "SLP",
+    "descripcion": "Tamuín",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "SON",
+    "descripcion": "Puerto Peñasco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "TAB",
+    "descripcion": "Frontera",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Victoria",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "VER",
+    "descripcion": "Minatitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "11",
+    "c_Estado": "ZAC",
+    "descripcion": "Nochistlán de Mejía",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "BCS",
+    "descripcion": "Santa Rosalía",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "COA",
+    "descripcion": "Castaños",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "CHH",
+    "descripcion": "José Mariano Jiménez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "CHP",
+    "descripcion": "Tonalá",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "DUR",
+    "descripcion": "Santa María del Oro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "GRO",
+    "descripcion": "Buenavista de Cuellar",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "GUA",
+    "descripcion": "Jerécuaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "HID",
+    "descripcion": "Ixmiquilpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "JAL",
+    "descripcion": "Tonalá",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "MEX",
+    "descripcion": "Tecamac de Felipe Villanueva",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "MIC",
+    "descripcion": "Heroica Zitácuaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "NAY",
+    "descripcion": "Bucerías",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "NLE",
+    "descripcion": "Ciénega de Flores",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "OAX",
+    "descripcion": "San Felipe Jalapa de Díaz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "PUE",
+    "descripcion": "Tepeaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "SIN",
+    "descripcion": "Villa Unión",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "SLP",
+    "descripcion": "Tamasopo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "SON",
+    "descripcion": "Heroica Ciudad de Cananea",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "TAB",
+    "descripcion": "Cunduacán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "TAM",
+    "descripcion": "González",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "VER",
+    "descripcion": "Orizaba",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "12",
+    "c_Estado": "ZAC",
+    "descripcion": "Víctor Rosales",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "COA",
+    "descripcion": "Francisco I. Madero (Chávez)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "CHH",
+    "descripcion": "Manuel Ojinaga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "CHP",
+    "descripcion": "Mapastepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "GRO",
+    "descripcion": "Cutzamala de Pinzón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "GUA",
+    "descripcion": "Santiago Maravatío",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "HID",
+    "descripcion": "Tepeji del Rio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "JAL",
+    "descripcion": "Tuxpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "MEX",
+    "descripcion": "Tepotzotlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "MIC",
+    "descripcion": "Paracho de Verduzco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "NAY",
+    "descripcion": "Las Varas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "NLE",
+    "descripcion": "Hualahuises",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "OAX",
+    "descripcion": "Bahias de Huatulco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "PUE",
+    "descripcion": "Tecamachalco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "SIN",
+    "descripcion": "Sinaloa de Leyva",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "SLP",
+    "descripcion": "Ciudad del Maíz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "SON",
+    "descripcion": "Sonoita",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "TAB",
+    "descripcion": "Huimanguillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "TAM",
+    "descripcion": "Jaumave",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "VER",
+    "descripcion": "Papantla de Olarte",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "13",
+    "c_Estado": "ZAC",
+    "descripcion": "Valparaíso",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "COA",
+    "descripcion": "Cuatro Ciénegas de Carranza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "CHH",
+    "descripcion": "Bachíniva",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "CHP",
+    "descripcion": "Las Rosas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "GRO",
+    "descripcion": "Coyuca de Catalán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "GUA",
+    "descripcion": "Romita",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "HID",
+    "descripcion": "Cruz Azul",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "JAL",
+    "descripcion": "Tototlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "MEX",
+    "descripcion": "Tlalnepantla de Baz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "MIC",
+    "descripcion": "Tangancícuaro de Arista",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "NAY",
+    "descripcion": "Xalisco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "OAX",
+    "descripcion": "Putla Villa de Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "PUE",
+    "descripcion": "Zacatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "SIN",
+    "descripcion": "Mocorito",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "SLP",
+    "descripcion": "Cedral",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "SON",
+    "descripcion": "Magdalena de Kino",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Gustavo Díaz Ordaz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "VER",
+    "descripcion": "Poza Rica de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "14",
+    "c_Estado": "ZAC",
+    "descripcion": "Luis Moya",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "COA",
+    "descripcion": "Nadadores",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "CHH",
+    "descripcion": "Saucillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "CHP",
+    "descripcion": "Chiapa de Corzo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "GRO",
+    "descripcion": "Tierra Colorada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "GUA",
+    "descripcion": "Tarandacuao",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "HID",
+    "descripcion": "Tepeapulco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "JAL",
+    "descripcion": "San Diego de Alejandría",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "MEX",
+    "descripcion": "Santa Maria Tultepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "MIC",
+    "descripcion": "Maravatío de Ocampo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "NAY",
+    "descripcion": "San pedro Lagunillas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "NLE",
+    "descripcion": "Cadereyta Jiménez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "OAX",
+    "descripcion": "Cosolapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "PUE",
+    "descripcion": "Xicotepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "SIN",
+    "descripcion": "Angostura",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "SLP",
+    "descripcion": "Tierra Nueva",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "TAM",
+    "descripcion": "Estación Manuel (Úrsulo Galván)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "VER",
+    "descripcion": "San Andrés Tuxtla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "15",
+    "c_Estado": "ZAC",
+    "descripcion": "Moyahua de Estrada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "COA",
+    "descripcion": "Ramos Arizpe",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "CHP",
+    "descripcion": "Cacahoatán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "CMX",
+    "descripcion": "Ciudad de México",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "GRO",
+    "descripcion": "Coyuca de Benítez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "GUA",
+    "descripcion": "Huanímaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "JAL",
+    "descripcion": "La Resolana",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "MEX",
+    "descripcion": "Tultitlán de Mariano Escobedo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "MIC",
+    "descripcion": "Zinapécuaro de Figueroa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "NAY",
+    "descripcion": "La peñita de Jaltemba",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "OAX",
+    "descripcion": "Tlacolula de Matamoros",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "PUE",
+    "descripcion": "Ciudad Serdán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "SIN",
+    "descripcion": "San Blas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "SLP",
+    "descripcion": "Villa de Reyes",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "TAM",
+    "descripcion": "Xicoténcatl",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "VER",
+    "descripcion": "Túxpam de Rodríguez Cano",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "16",
+    "c_Estado": "ZAC",
+    "descripcion": "Sombrerete",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "COA",
+    "descripcion": "Nava",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "CHP",
+    "descripcion": "Ocozocoautla de Espinosa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "GRO",
+    "descripcion": "Olinalá",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "GUA",
+    "descripcion": "Comonfort",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "JAL",
+    "descripcion": "Atotonilco el Alto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "MEX",
+    "descripcion": "Cuautitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "MIC",
+    "descripcion": "Puruándiro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "NAY",
+    "descripcion": "Jala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "NLE",
+    "descripcion": "Santiago",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "OAX",
+    "descripcion": "San Pablo Villa de Mitla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "PUE",
+    "descripcion": "Amozoc",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "SIN",
+    "descripcion": "La Cruz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "SLP",
+    "descripcion": "Fracción el Refugio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Miguel Alemán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "VER",
+    "descripcion": "Veracruz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "17",
+    "c_Estado": "ZAC",
+    "descripcion": "Jalpa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "COA",
+    "descripcion": "Zaragoza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "CHP",
+    "descripcion": "Cintalapa de Figueroa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "GRO",
+    "descripcion": "Marquelia",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "GUA",
+    "descripcion": "Uriangato",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "JAL",
+    "descripcion": "Jalostotitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "MEX",
+    "descripcion": "Ixtapaluca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "MIC",
+    "descripcion": "Yurécuaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "NAY",
+    "descripcion": "Ahuacatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "NLE",
+    "descripcion": "El cercado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "OAX",
+    "descripcion": "Natividad",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "SIN",
+    "descripcion": "El rosario",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "SLP",
+    "descripcion": "Tamazunchale",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "TAM",
+    "descripcion": "Soto la Marina",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "VER",
+    "descripcion": "Tierra Blanca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "18",
+    "c_Estado": "ZAC",
+    "descripcion": "Loreto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "COA",
+    "descripcion": "San Buenaventura",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "CHP",
+    "descripcion": "Pichucalco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "GRO",
+    "descripcion": "Zumpango del Río",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "GUA",
+    "descripcion": "Pénjamo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "JAL",
+    "descripcion": "Poncitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "MEX",
+    "descripcion": "Texcoco de Mora",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "MIC",
+    "descripcion": "Huetamo de Núñez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "OAX",
+    "descripcion": "Teotitlán de Flores Magón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "SIN",
+    "descripcion": "Estación Naranjo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "SLP",
+    "descripcion": "Santa María del Río",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "TAM",
+    "descripcion": "Ciudad Tula",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "VER",
+    "descripcion": "Cosamaloapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "19",
+    "c_Estado": "ZAC",
+    "descripcion": "Juan Aldama",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "COA",
+    "descripcion": "Ciudad Melchor Múzquiz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "CHP",
+    "descripcion": "Puerto Madero (San Benito)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "GRO",
+    "descripcion": "San Luis de la Loma",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "GUA",
+    "descripcion": "Cuerámaro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "JAL",
+    "descripcion": "Arandas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "MEX",
+    "descripcion": "Toluca de Lerdo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "MIC",
+    "descripcion": "Tacámbaro de Codallos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "NLE",
+    "descripcion": "Anáhuac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "OAX",
+    "descripcion": "Santa María Huatulco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "SIN",
+    "descripcion": "Aguaruto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "SLP",
+    "descripcion": "El Naranjo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "TAM",
+    "descripcion": "Nueva Ciudad Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "20",
+    "c_Estado": "VER",
+    "descripcion": "Carlos A. Carrillo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "COA",
+    "descripcion": "Viesca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "CHP",
+    "descripcion": "Pijijiapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "GRO",
+    "descripcion": "Petatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "GUA",
+    "descripcion": "Empalme Escobedo (Escobedo)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "JAL",
+    "descripcion": "Talpa de Allende",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "MEX",
+    "descripcion": "Valle de Chalco Solidaridad",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "MIC",
+    "descripcion": "Ciudad Lázaro Cárdenas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "NLE",
+    "descripcion": "García",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "OAX",
+    "descripcion": "San Juan Bautista Cuicatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "SIN",
+    "descripcion": "Cosalá",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "TAM",
+    "descripcion": "Valle Hermoso",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "21",
+    "c_Estado": "VER",
+    "descripcion": "Pánuco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "COA",
+    "descripcion": "Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "CHP",
+    "descripcion": "Reforma",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "GRO",
+    "descripcion": "La Unión",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "GUA",
+    "descripcion": "San Luis de la Paz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "JAL",
+    "descripcion": "Etzatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "MEX",
+    "descripcion": "Tejupilco de Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "MIC",
+    "descripcion": "Las Guacamayas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "NLE",
+    "descripcion": "Ciudad Benito Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "OAX",
+    "descripcion": "Villa Sola de Vega",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "SIN",
+    "descripcion": "San Ignacio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "22",
+    "c_Estado": "VER",
+    "descripcion": "Tampico Alto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "COA",
+    "descripcion": "Arteaga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "CHP",
+    "descripcion": "Huixtla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "GRO",
+    "descripcion": "San Luis San Pedro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "GUA",
+    "descripcion": "Valle de Santiago",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "JAL",
+    "descripcion": "Sayula",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "MEX",
+    "descripcion": "Chalco de Díaz Covarrubias",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "MIC",
+    "descripcion": "Jiquilpan de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "OAX",
+    "descripcion": "Ocotlán de Morelos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "SIN",
+    "descripcion": "Topolobampo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "23",
+    "c_Estado": "VER",
+    "descripcion": "Tempoal de Sánchez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "COA",
+    "descripcion": "Allende",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "CHP",
+    "descripcion": "Motozintla de Mendoza",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "GRO",
+    "descripcion": "Teloloapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "GUA",
+    "descripcion": "Abasolo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "JAL",
+    "descripcion": "Ahualulco de Mercado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "MEX",
+    "descripcion": "Amatepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "MIC",
+    "descripcion": "Tuxpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "OAX",
+    "descripcion": "Villa de Zaachila",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "SIN",
+    "descripcion": "Lic. Benito Juárez (Campo Gobierno)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "24",
+    "c_Estado": "VER",
+    "descripcion": "Tantoyuca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "CHP",
+    "descripcion": "Acala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "GRO",
+    "descripcion": "Técpan de Galeana",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "GUA",
+    "descripcion": "Rincón de Tamayo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "JAL",
+    "descripcion": "Autlán de Navarro",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "MIC",
+    "descripcion": "Cotija de la Paz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "OAX",
+    "descripcion": "Miahuatlán de Porfirio Díaz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "25",
+    "c_Estado": "VER",
+    "descripcion": "Gutiérrez Zamora",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "GRO",
+    "descripcion": "Huitzuco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "GUA",
+    "descripcion": "Villagrán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "JAL",
+    "descripcion": "Magdalena",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "MEX",
+    "descripcion": "Melchor Ocampo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "MIC",
+    "descripcion": "Nueva Italia de Ruiz",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "OAX",
+    "descripcion": "Unión Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "26",
+    "c_Estado": "VER",
+    "descripcion": "Platón Sánchez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "GRO",
+    "descripcion": "Tixtla de Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "GUA",
+    "descripcion": "Yuriria",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "JAL",
+    "descripcion": "San Julián",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "MEX",
+    "descripcion": "San Vicente Chicoloapan de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "MIC",
+    "descripcion": "Cuitzeo del Porvenir",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "OAX",
+    "descripcion": "El Camarón",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "27",
+    "c_Estado": "VER",
+    "descripcion": "Juan Rodríguez Clara",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "GRO",
+    "descripcion": "Tepecoacuilco de Trujano",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "GUA",
+    "descripcion": "Apaseo el Grande",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "JAL",
+    "descripcion": "Cocula",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "MEX",
+    "descripcion": "Capulhuac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "OAX",
+    "descripcion": "San Pedro Mixtepec -Dto. 22-",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "28",
+    "c_Estado": "VER",
+    "descripcion": "Huatusco de Chicuellar",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "GRO",
+    "descripcion": "San Marcos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "GUA",
+    "descripcion": "Purísima de Bustos",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "JAL",
+    "descripcion": "El Grullo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "MEX",
+    "descripcion": "Juchitepec de Mariano Riva Palacio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "OAX",
+    "descripcion": "Santa Cruz Itundujia",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "29",
+    "c_Estado": "VER",
+    "descripcion": "Ixtaczoquitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "GRO",
+    "descripcion": "Azoyú",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "GUA",
+    "descripcion": "Salvatierra",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "JAL",
+    "descripcion": "San Miguel el Alto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "MEX",
+    "descripcion": "Tequixquiac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "OAX",
+    "descripcion": "Chahuites",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "30",
+    "c_Estado": "VER",
+    "descripcion": "Río Blanco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "GRO",
+    "descripcion": "Tlapehuala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "GUA",
+    "descripcion": "Marfil",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "JAL",
+    "descripcion": "Tala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "MEX",
+    "descripcion": "Xonacatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "OAX",
+    "descripcion": "Heroica Ciudad de Ejutla de Crespo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "31",
+    "c_Estado": "VER",
+    "descripcion": "Isla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "GRO",
+    "descripcion": "San Luis Acatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "GUA",
+    "descripcion": "San José Iturbide",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "JAL",
+    "descripcion": "La Barca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "MEX",
+    "descripcion": "San Mateo Atenco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "OAX",
+    "descripcion": "San Pedro Tapanatepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "32",
+    "c_Estado": "VER",
+    "descripcion": "Cuitláhuac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "33",
+    "c_Estado": "GRO",
+    "descripcion": "Chilapa de Álvarez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "33",
+    "c_Estado": "GUA",
+    "descripcion": "Apaseo el Alto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "33",
+    "c_Estado": "JAL",
+    "descripcion": "Jamay",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "33",
+    "c_Estado": "OAX",
+    "descripcion": "Vicente Camalote",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "33",
+    "c_Estado": "VER",
+    "descripcion": "Fortín de las Flores",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "34",
+    "c_Estado": "GRO",
+    "descripcion": "Tlapa de Comonfort",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "34",
+    "c_Estado": "GUA",
+    "descripcion": "Ciudad Manuel Doblado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "34",
+    "c_Estado": "JAL",
+    "descripcion": "Yahualica de González Gallo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "34",
+    "c_Estado": "OAX",
+    "descripcion": "Villa de Tamazulápam del Progreso",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "34",
+    "c_Estado": "VER",
+    "descripcion": "Alvarado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "35",
+    "c_Estado": "GRO",
+    "descripcion": "Tlalixtaquilla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "35",
+    "c_Estado": "GUA",
+    "descripcion": "Jaral del Progreso",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "35",
+    "c_Estado": "JAL",
+    "descripcion": "Colotlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "35",
+    "c_Estado": "OAX",
+    "descripcion": "San Juan Bautista lo de Soto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "35",
+    "c_Estado": "VER",
+    "descripcion": "José Cardel",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "GRO",
+    "descripcion": "Cuajinicuilapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "GUA",
+    "descripcion": "San Diego de la Unión",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "JAL",
+    "descripcion": "Cihuatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "MEX",
+    "descripcion": "Chiconcuac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "OAX",
+    "descripcion": "San Juan Cacahuatepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "36",
+    "c_Estado": "VER",
+    "descripcion": "Banderilla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "37",
+    "c_Estado": "GRO",
+    "descripcion": "Huamuxtitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "37",
+    "c_Estado": "GUA",
+    "descripcion": "Santa Cruz Juventino Rosas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "37",
+    "c_Estado": "JAL",
+    "descripcion": "Zapotiltic",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "37",
+    "c_Estado": "OAX",
+    "descripcion": "San Pedro Totolapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "37",
+    "c_Estado": "VER",
+    "descripcion": "Paraje Nuevo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "38",
+    "c_Estado": "GRO",
+    "descripcion": "Cruz Grande",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "38",
+    "c_Estado": "GUA",
+    "descripcion": "Doctor Mora",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "38",
+    "c_Estado": "JAL",
+    "descripcion": "Villa Corona",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "38",
+    "c_Estado": "OAX",
+    "descripcion": "San Miguel el Grande",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "38",
+    "c_Estado": "VER",
+    "descripcion": "Playa Vicente",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "GRO",
+    "descripcion": "Ocotito",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "GUA",
+    "descripcion": "Dolores Hgo. Cuna de la Indep. Nal.",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "JAL",
+    "descripcion": "Teocaltiche",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "MEX",
+    "descripcion": "Almoloya de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "OAX",
+    "descripcion": "Zimatlán de Álvarez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "39",
+    "c_Estado": "VER",
+    "descripcion": "Altotonga",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "40",
+    "c_Estado": "GRO",
+    "descripcion": "Copala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "40",
+    "c_Estado": "MEX",
+    "descripcion": "Ocoyoacac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "40",
+    "c_Estado": "OAX",
+    "descripcion": "San Pablo Huitzo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "40",
+    "c_Estado": "VER",
+    "descripcion": "Juan Díaz Covarrubias",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "41",
+    "c_Estado": "GRO",
+    "descripcion": "Zihuatanejo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "41",
+    "c_Estado": "JAL",
+    "descripcion": "Tequila",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "41",
+    "c_Estado": "MEX",
+    "descripcion": "Zumpango",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "41",
+    "c_Estado": "OAX",
+    "descripcion": "San Francisco Telixtlahuaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "41",
+    "c_Estado": "VER",
+    "descripcion": "Cuichapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "42",
+    "c_Estado": "JAL",
+    "descripcion": "El Quince (San José el Quince)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "42",
+    "c_Estado": "OAX",
+    "descripcion": "Mariscala de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "42",
+    "c_Estado": "VER",
+    "descripcion": "Santiago Tuxtla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "43",
+    "c_Estado": "JAL",
+    "descripcion": "San José el Verde (El Verde)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "43",
+    "c_Estado": "OAX",
+    "descripcion": "Santiago Pinotepa Nacional",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "43",
+    "c_Estado": "VER",
+    "descripcion": "Huayacocotla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "44",
+    "c_Estado": "JAL",
+    "descripcion": "Jocotepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "44",
+    "c_Estado": "OAX",
+    "descripcion": "Santiago Jamiltepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "44",
+    "c_Estado": "VER",
+    "descripcion": "Paso de Ovejas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "45",
+    "c_Estado": "JAL",
+    "descripcion": "Tecalitlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "45",
+    "c_Estado": "OAX",
+    "descripcion": "San Pedro Pochutla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "45",
+    "c_Estado": "VER",
+    "descripcion": "Catemaco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "46",
+    "c_Estado": "JAL",
+    "descripcion": "Chapala",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "46",
+    "c_Estado": "OAX",
+    "descripcion": "Heroica Ciudad de Tlaxiaco",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "46",
+    "c_Estado": "VER",
+    "descripcion": "Nogales",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "47",
+    "c_Estado": "JAL",
+    "descripcion": "Ajijic",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "47",
+    "c_Estado": "OAX",
+    "descripcion": "San Juan Bautista Valle Nacional",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "47",
+    "c_Estado": "VER",
+    "descripcion": "Las Choapas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "48",
+    "c_Estado": "JAL",
+    "descripcion": "San Ignacio Cerro Gordo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "48",
+    "c_Estado": "OAX",
+    "descripcion": "Lagunas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "48",
+    "c_Estado": "VER",
+    "descripcion": "General Miguel Alemán (Potrero Nuevo)",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "49",
+    "c_Estado": "JAL",
+    "descripcion": "Zacoalco de Torres",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "49",
+    "c_Estado": "OAX",
+    "descripcion": "Ciudad Ixtepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "49",
+    "c_Estado": "VER",
+    "descripcion": "Coatzintla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "50",
+    "c_Estado": "JAL",
+    "descripcion": "Huejuquilla el Alto",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "50",
+    "c_Estado": "OAX",
+    "descripcion": "Santiago Juxtlahuaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "50",
+    "c_Estado": "VER",
+    "descripcion": "Ángel R. Cabada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "51",
+    "c_Estado": "JAL",
+    "descripcion": "Villa Hidalgo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "51",
+    "c_Estado": "OAX",
+    "descripcion": "San Sebastián Tecomaxtlahuaca",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "51",
+    "c_Estado": "VER",
+    "descripcion": "San Rafael",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "52",
+    "c_Estado": "JAL",
+    "descripcion": "Unión de San Antonio",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "52",
+    "c_Estado": "OAX",
+    "descripcion": "Asunción Nochixtlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "52",
+    "c_Estado": "VER",
+    "descripcion": "Tlacojalpan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "53",
+    "c_Estado": "JAL",
+    "descripcion": "Las Pintitas",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "53",
+    "c_Estado": "OAX",
+    "descripcion": "San Francisco Ixhuatán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "53",
+    "c_Estado": "VER",
+    "descripcion": "Cosoleacaque",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "54",
+    "c_Estado": "JAL",
+    "descripcion": "Tamazula de Gordiano",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "54",
+    "c_Estado": "OAX",
+    "descripcion": "San Blas Atempa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "54",
+    "c_Estado": "VER",
+    "descripcion": "Lerdo de Tejada",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "55",
+    "c_Estado": "JAL",
+    "descripcion": "Acatlán de Juárez",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "55",
+    "c_Estado": "OAX",
+    "descripcion": "Santo Domingo Tehuantepec",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "55",
+    "c_Estado": "VER",
+    "descripcion": "Tihuatlán",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "56",
+    "c_Estado": "JAL",
+    "descripcion": "Valle de Guadalupe",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "56",
+    "c_Estado": "OAX",
+    "descripcion": "Cuilápam de Guerrero",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "56",
+    "c_Estado": "VER",
+    "descripcion": "Atoyac",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "57",
+    "c_Estado": "OAX",
+    "descripcion": "El Rosario",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "57",
+    "c_Estado": "VER",
+    "descripcion": "Huiloapan de Cuauhtémoc",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "58",
+    "c_Estado": "OAX",
+    "descripcion": "Santa Lucia del Camino",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "58",
+    "c_Estado": "VER",
+    "descripcion": "Cazones de Herrera",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "59",
+    "c_Estado": "OAX",
+    "descripcion": "San Antonio de la Cal",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "59",
+    "c_Estado": "VER",
+    "descripcion": "Yecuatla",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "60",
+    "c_Estado": "VER",
+    "descripcion": "Soledad de Doblado",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "61",
+    "c_Estado": "VER",
+    "descripcion": "Cerro Azul",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "62",
+    "c_Estado": "VER",
+    "descripcion": "Tezonapa",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "66",
+    "c_Estado": "VER",
+    "descripcion": "Sihuapan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "67",
+    "c_Estado": "VER",
+    "descripcion": "El Higo",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "68",
+    "c_Estado": "VER",
+    "descripcion": "Paso del Macho",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Localidad": "69",
+    "c_Estado": "VER",
+    "descripcion": "Tlapacoyan",
+    "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  }
+]

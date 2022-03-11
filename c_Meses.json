@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01",
+    "descripcion": "Enero",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Febrero",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Marzo",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Abril",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Mayo",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "Junio",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "Julio",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "Agosto",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "09",
+    "descripcion": "Septiembre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "10",
+    "descripcion": "Octubre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "11",
+    "descripcion": "Noviembre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "12",
+    "descripcion": "Diciembre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "13",
+    "descripcion": "Enero-Febrero",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "14",
+    "descripcion": "Marzo-Abril",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "15",
+    "descripcion": "Mayo-Junio",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "16",
+    "descripcion": "Julio-Agosto",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "17",
+    "descripcion": "Septiembre-Octubre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "18",
+    "descripcion": "Noviembre-Diciembre",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  }
+]
