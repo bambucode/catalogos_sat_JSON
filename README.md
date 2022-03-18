@@ -1,9 +1,9 @@
-# Catálogos CFDI 3.3 del SAT
+# Catálogos CFDI 3. del SAT
 
 Este repositorio contiene los catálogos de CFDI 3.3 que el SAT [publica en su
-sitio web en formato de Microsoft Excel](http://www.sat.gob.mx/informacion_fiscal/factura_electronica/Documents/catCFDI.xls), pero convertido de forma automática a formato JSON para facilitar su uso en proyectos de software. Si deseas puedes:
+sitio web en formato de Microsoft Excel](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20_version3-3.htm), pero convertido de forma automática a formato JSON para facilitar su uso. Si deseas puedes:
 
-[Descargar todos los catálogos en formato ZIP](https://github.com/bambucode/catalogos_sat_JSON/archive/master.zip)
+[Descargar todos los catálogos en formato ZIP](https://github.com/bambucode/catalogos_sat_JSON/archive/refs/heads/cfdi-3.3.zip)
 
 Este repositorio y sus archivos se actualizan automáticamente por el proyecto
 de código abierto **catalogos_sat** (https://github.com/bambucode/catalogos_sat) 
