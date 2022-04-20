@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "AFG",
+    "descripcion": "Afganistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ALA",
+    "descripcion": "Islas Åland",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ALB",
+    "descripcion": "Albania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "DEU",
+    "descripcion": "Alemania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "AND",
+    "descripcion": "Andorra",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "AGO",
+    "descripcion": "Angola",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "AIA",
+    "descripcion": "Anguila",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ATA",
+    "descripcion": "Antártida",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ATG",
+    "descripcion": "Antigua y Barbuda",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SAU",
+    "descripcion": "Arabia Saudita",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "DZA",
+    "descripcion": "Argelia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ARG",
+    "descripcion": "Argentina",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ARM",
+    "descripcion": "Armenia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ABW",
+    "descripcion": "Aruba",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "AUS",
+    "descripcion": "Australia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "AUT",
+    "descripcion": "Austria",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "AZE",
+    "descripcion": "Azerbaiyán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BHS",
+    "descripcion": "Bahamas (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BGD",
+    "descripcion": "Bangladés",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BRB",
+    "descripcion": "Barbados",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BHR",
+    "descripcion": "Baréin",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BEL",
+    "descripcion": "Bélgica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "BLZ",
+    "descripcion": "Belice",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BEN",
+    "descripcion": "Benín",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BMU",
+    "descripcion": "Bermudas",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BLR",
+    "descripcion": "Bielorrusia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MMR",
+    "descripcion": "Myanmar",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BOL",
+    "descripcion": "Bolivia, Estado Plurinacional de",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BIH",
+    "descripcion": "Bosnia y Herzegovina",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BWA",
+    "descripcion": "Botsuana",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BRA",
+    "descripcion": "Brasil",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BRN",
+    "descripcion": "Brunéi Darussalam",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BGR",
+    "descripcion": "Bulgaria",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "BFA",
+    "descripcion": "Burkina Faso",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BDI",
+    "descripcion": "Burundi",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BTN",
+    "descripcion": "Bután",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CPV",
+    "descripcion": "Cabo Verde",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KHM",
+    "descripcion": "Camboya",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CMR",
+    "descripcion": "Camerún",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CAN",
+    "descripcion": "Canadá",
+    "formatoDeCodigoPostal": "[A-Z][0-9][A-Z] [0-9][A-Z][0-9]",
+    "formatoDeRegistroDeIdentidadTributaria": "[0-9]{9}",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "TLCAN"
+  },
+  {
+    "id": "QAT",
+    "descripcion": "Catar",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BES",
+    "descripcion": "Bonaire, San Eustaquio y Saba",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TCD",
+    "descripcion": "Chad",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CHL",
+    "descripcion": "Chile",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CHN",
+    "descripcion": "China",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CYP",
+    "descripcion": "Chipre",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "COL",
+    "descripcion": "Colombia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "COM",
+    "descripcion": "Comoras",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PRK",
+    "descripcion": "Corea (la República Democrática Popular de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KOR",
+    "descripcion": "Corea (la República de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CIV",
+    "descripcion": "Côte d'Ivoire",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CRI",
+    "descripcion": "Costa Rica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HRV",
+    "descripcion": "Croacia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "CUB",
+    "descripcion": "Cuba",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CUW",
+    "descripcion": "Curaçao",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "DNK",
+    "descripcion": "Dinamarca",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "DMA",
+    "descripcion": "Dominica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ECU",
+    "descripcion": "Ecuador",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "EGY",
+    "descripcion": "Egipto",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SLV",
+    "descripcion": "El Salvador",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ARE",
+    "descripcion": "Emiratos Árabes Unidos (Los)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ERI",
+    "descripcion": "Eritrea",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SVK",
+    "descripcion": "Eslovaquia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "SVN",
+    "descripcion": "Eslovenia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "ESP",
+    "descripcion": "España",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "USA",
+    "descripcion": "Estados Unidos (los)",
+    "formatoDeCodigoPostal": "[0-9]{5}(-[0-9]{4})?",
+    "formatoDeRegistroDeIdentidadTributaria": "[0-9]{9}",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "TLCAN"
+  },
+  {
+    "id": "EST",
+    "descripcion": "Estonia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "ETH",
+    "descripcion": "Etiopía",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PHL",
+    "descripcion": "Filipinas (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "FIN",
+    "descripcion": "Finlandia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "FJI",
+    "descripcion": "Fiyi",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "FRA",
+    "descripcion": "Francia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "GAB",
+    "descripcion": "Gabón",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GMB",
+    "descripcion": "Gambia (La)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GEO",
+    "descripcion": "Georgia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GHA",
+    "descripcion": "Ghana",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GIB",
+    "descripcion": "Gibraltar",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GRD",
+    "descripcion": "Granada",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GRC",
+    "descripcion": "Grecia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "GRL",
+    "descripcion": "Groenlandia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GLP",
+    "descripcion": "Guadalupe",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GUM",
+    "descripcion": "Guam",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GTM",
+    "descripcion": "Guatemala",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GUF",
+    "descripcion": "Guayana Francesa",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GGY",
+    "descripcion": "Guernsey",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GIN",
+    "descripcion": "Guinea",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GNB",
+    "descripcion": "Guinea-Bisáu",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GNQ",
+    "descripcion": "Guinea Ecuatorial",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GUY",
+    "descripcion": "Guyana",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HTI",
+    "descripcion": "Haití",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HND",
+    "descripcion": "Honduras",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HKG",
+    "descripcion": "Hong Kong",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HUN",
+    "descripcion": "Hungría",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "IND",
+    "descripcion": "India",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IDN",
+    "descripcion": "Indonesia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IRQ",
+    "descripcion": "Irak",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IRN",
+    "descripcion": "Irán (la República Islámica de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IRL",
+    "descripcion": "Irlanda",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "BVT",
+    "descripcion": "Isla Bouvet",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IMN",
+    "descripcion": "Isla de Man",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CXR",
+    "descripcion": "Isla de Navidad",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NFK",
+    "descripcion": "Isla Norfolk",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ISL",
+    "descripcion": "Islandia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CYM",
+    "descripcion": "Islas Caimán (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CCK",
+    "descripcion": "Islas Cocos (Keeling)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "COK",
+    "descripcion": "Islas Cook (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "FRO",
+    "descripcion": "Islas Feroe (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SGS",
+    "descripcion": "Georgia del sur y las islas sandwich del sur",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "HMD",
+    "descripcion": "Isla Heard e Islas McDonald",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "FLK",
+    "descripcion": "Islas Malvinas [Falkland] (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MNP",
+    "descripcion": "Islas Marianas del Norte (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MHL",
+    "descripcion": "Islas Marshall (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PCN",
+    "descripcion": "Pitcairn",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SLB",
+    "descripcion": "Islas Salomón (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TCA",
+    "descripcion": "Islas Turcas y Caicos (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "UMI",
+    "descripcion": "Islas de Ultramar Menores de Estados Unidos (las)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VGB",
+    "descripcion": "Islas Vírgenes (Británicas)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VIR",
+    "descripcion": "Islas Vírgenes (EE.UU.)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ISR",
+    "descripcion": "Israel",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ITA",
+    "descripcion": "Italia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "JAM",
+    "descripcion": "Jamaica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "JPN",
+    "descripcion": "Japón",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "JEY",
+    "descripcion": "Jersey",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "JOR",
+    "descripcion": "Jordania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KAZ",
+    "descripcion": "Kazajistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KEN",
+    "descripcion": "Kenia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KGZ",
+    "descripcion": "Kirguistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KIR",
+    "descripcion": "Kiribati",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KWT",
+    "descripcion": "Kuwait",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LAO",
+    "descripcion": "Lao, (la) República Democrática Popular",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LSO",
+    "descripcion": "Lesoto",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LVA",
+    "descripcion": "Letonia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "LBN",
+    "descripcion": "Líbano",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LBR",
+    "descripcion": "Liberia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LBY",
+    "descripcion": "Libia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LIE",
+    "descripcion": "Liechtenstein",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LTU",
+    "descripcion": "Lituania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "LUX",
+    "descripcion": "Luxemburgo",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "MAC",
+    "descripcion": "Macao",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MDG",
+    "descripcion": "Madagascar",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MYS",
+    "descripcion": "Malasia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MWI",
+    "descripcion": "Malaui",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MDV",
+    "descripcion": "Maldivas",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MLI",
+    "descripcion": "Malí",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MLT",
+    "descripcion": "Malta",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "MAR",
+    "descripcion": "Marruecos",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MTQ",
+    "descripcion": "Martinica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MUS",
+    "descripcion": "Mauricio",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MRT",
+    "descripcion": "Mauritania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MYT",
+    "descripcion": "Mayotte",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MEX",
+    "descripcion": "México",
+    "formatoDeCodigoPostal": "[0-9]{5}",
+    "formatoDeRegistroDeIdentidadTributaria": "[A-Z&Ñ]{3,4}[0-9]{2}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[A-Z0-9]{2}[0\n-9A]",
+    "validacionDelRegistroDeIdentidadTributaria": "Lista del SAT",
+    "agrupaciones": "TLCAN"
+  },
+  {
+    "id": "FSM",
+    "descripcion": "Micronesia (los Estados Federados de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MDA",
+    "descripcion": "Moldavia (la República de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MCO",
+    "descripcion": "Mónaco",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MNG",
+    "descripcion": "Mongolia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MNE",
+    "descripcion": "Montenegro",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MSR",
+    "descripcion": "Montserrat",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MOZ",
+    "descripcion": "Mozambique",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NAM",
+    "descripcion": "Namibia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NRU",
+    "descripcion": "Nauru",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NPL",
+    "descripcion": "Nepal",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NIC",
+    "descripcion": "Nicaragua",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NER",
+    "descripcion": "Níger (el)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NGA",
+    "descripcion": "Nigeria",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NIU",
+    "descripcion": "Niue",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NOR",
+    "descripcion": "Noruega",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NCL",
+    "descripcion": "Nueva Caledonia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NZL",
+    "descripcion": "Nueva Zelanda",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "OMN",
+    "descripcion": "Omán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "NLD",
+    "descripcion": "Países Bajos (los)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "PAK",
+    "descripcion": "Pakistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PLW",
+    "descripcion": "Palaos",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PSE",
+    "descripcion": "Palestina, Estado de",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PAN",
+    "descripcion": "Panamá",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PNG",
+    "descripcion": "Papúa Nueva Guinea",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PRY",
+    "descripcion": "Paraguay",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PER",
+    "descripcion": "Perú",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "PYF",
+    "descripcion": "Polinesia Francesa",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "POL",
+    "descripcion": "Polonia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "PRT",
+    "descripcion": "Portugal",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "PRI",
+    "descripcion": "Puerto Rico",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "GBR",
+    "descripcion": "Reino Unido (el)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "CAF",
+    "descripcion": "República Centroafricana (la)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "CZE",
+    "descripcion": "República Checa (la)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "MKD",
+    "descripcion": "Macedonia (la antigua República Yugoslava de)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "COG",
+    "descripcion": "Congo",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "COD",
+    "descripcion": "Congo (la República Democrática del)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "DOM",
+    "descripcion": "República Dominicana (la)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "REU",
+    "descripcion": "Reunión",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "RWA",
+    "descripcion": "Ruanda",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ROU",
+    "descripcion": "Rumania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "RUS",
+    "descripcion": "Rusia, (la) Federación de",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ESH",
+    "descripcion": "Sahara Occidental",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "WSM",
+    "descripcion": "Samoa",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ASM",
+    "descripcion": "Samoa Americana",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "BLM",
+    "descripcion": "San Bartolomé",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "KNA",
+    "descripcion": "San Cristóbal y Nieves",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SMR",
+    "descripcion": "San Marino",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "MAF",
+    "descripcion": "San Martín (parte francesa)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SPM",
+    "descripcion": "San Pedro y Miquelón",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VCT",
+    "descripcion": "San Vicente y las Granadinas",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SHN",
+    "descripcion": "Santa Helena, Ascensión y Tristán de Acuña",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LCA",
+    "descripcion": "Santa Lucía",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "STP",
+    "descripcion": "Santo Tomé y Príncipe",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SEN",
+    "descripcion": "Senegal",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SRB",
+    "descripcion": "Serbia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SYC",
+    "descripcion": "Seychelles",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SLE",
+    "descripcion": "Sierra leona",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SGP",
+    "descripcion": "Singapur",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SXM",
+    "descripcion": "Sint Maarten (parte holandesa)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SYR",
+    "descripcion": "Siria, (la) República Árabe",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SOM",
+    "descripcion": "Somalia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "LKA",
+    "descripcion": "Sri Lanka",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SWZ",
+    "descripcion": "Suazilandia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ZAF",
+    "descripcion": "Sudáfrica",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SDN",
+    "descripcion": "Sudán (el)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SSD",
+    "descripcion": "Sudán del Sur",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SWE",
+    "descripcion": "Suecia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": "Unión Europea"
+  },
+  {
+    "id": "CHE",
+    "descripcion": "Suiza",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SUR",
+    "descripcion": "Surinam",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "SJM",
+    "descripcion": "Svalbard y Jan Mayen",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "THA",
+    "descripcion": "Tailandia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TWN",
+    "descripcion": "Taiwán (Provincia de China)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TZA",
+    "descripcion": "Tanzania, República Unida de",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TJK",
+    "descripcion": "Tayikistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "IOT",
+    "descripcion": "Territorio Británico del Océano Índico (el)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ATF",
+    "descripcion": "Territorios Australes Franceses (los)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TLS",
+    "descripcion": "Timor-Leste",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TGO",
+    "descripcion": "Togo",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TKL",
+    "descripcion": "Tokelau",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TON",
+    "descripcion": "Tonga",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TTO",
+    "descripcion": "Trinidad y Tobago",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TUN",
+    "descripcion": "Túnez",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TKM",
+    "descripcion": "Turkmenistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TUR",
+    "descripcion": "Turquía",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "TUV",
+    "descripcion": "Tuvalu",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "UKR",
+    "descripcion": "Ucrania",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "UGA",
+    "descripcion": "Uganda",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "URY",
+    "descripcion": "Uruguay",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "UZB",
+    "descripcion": "Uzbekistán",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VUT",
+    "descripcion": "Vanuatu",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VAT",
+    "descripcion": "Santa Sede[Estado de la Ciudad del Vaticano] (la)",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VEN",
+    "descripcion": "Venezuela, República Bolivariana de",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "VNM",
+    "descripcion": "Viet Nam",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "WLF",
+    "descripcion": "Wallis y Futuna",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "YEM",
+    "descripcion": "Yemen",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "DJI",
+    "descripcion": "Yibuti",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ZMB",
+    "descripcion": "Zambia",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ZWE",
+    "descripcion": "Zimbabue",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  },
+  {
+    "id": "ZZZ",
+    "descripcion": "Países no declarados",
+    "formatoDeCodigoPostal": "",
+    "formatoDeRegistroDeIdentidadTributaria": "",
+    "validacionDelRegistroDeIdentidadTributaria": "",
+    "agrupaciones": ""
+  }
+]

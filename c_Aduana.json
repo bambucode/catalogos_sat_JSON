@@ -1,0 +1,296 @@
+[
+  {
+    "id": "01",
+    "descripcion": "ACAPULCO, ACAPULCO DE JUAREZ, GUERRERO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "AGUA PRIETA, AGUA PRIETA, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "COATZACOALCOS, COATZACOALCOS, VERACRUZ.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "11",
+    "descripcion": "ENSENADA, ENSENADA, BAJA CALIFORNIA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "12",
+    "descripcion": "GUAYMAS, GUAYMAS, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "14",
+    "descripcion": "LA PAZ, LA PAZ, BAJA CALIFORNIA SUR.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "16",
+    "descripcion": "MANZANILLO, MANZANILLO, COLIMA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "17",
+    "descripcion": "MATAMOROS, MATAMOROS, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "18",
+    "descripcion": "MAZATLAN, MAZATLAN, SINALOA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "19",
+    "descripcion": "MEXICALI, MEXICALI, BAJA CALIFORNIA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "20",
+    "descripcion": "MEXICO, DISTRITO FEDERAL.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "22",
+    "descripcion": "NACO, NACO, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "23",
+    "descripcion": "NOGALES, NOGALES, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "24",
+    "descripcion": "NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "25",
+    "descripcion": "OJINAGA, OJINAGA, CHIHUAHUA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "26",
+    "descripcion": "PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "27",
+    "descripcion": "PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "28",
+    "descripcion": "PROGRESO, PROGRESO, YUCATAN.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "30",
+    "descripcion": "CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "31",
+    "descripcion": "SALINA CRUZ, SALINA CRUZ, OAXACA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "33",
+    "descripcion": "SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "34",
+    "descripcion": "CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "37",
+    "descripcion": "CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "38",
+    "descripcion": "TAMPICO, TAMPICO, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "39",
+    "descripcion": "TECATE, TECATE, BAJA CALIFORNIA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "40",
+    "descripcion": "TIJUANA, TIJUANA, BAJA CALIFORNIA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "42",
+    "descripcion": "TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "43",
+    "descripcion": "VERACRUZ, VERACRUZ, VERACRUZ.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "44",
+    "descripcion": "CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "46",
+    "descripcion": "TORREON, TORREON, COAHUILA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "47",
+    "descripcion": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO,",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "48",
+    "descripcion": "GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "50",
+    "descripcion": "SONOYTA, SONOYTA, SONORA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "51",
+    "descripcion": "LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "52",
+    "descripcion": "MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "53",
+    "descripcion": "CANCUN, CANCUN, QUINTANA ROO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "64",
+    "descripcion": "QUERÉTARO, EL MARQUÉS Y COLON, QUERÉTARO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "65",
+    "descripcion": "TOLUCA, TOLUCA, ESTADO DE MEXICO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "67",
+    "descripcion": "CHIHUAHUA, CHIHUAHUA, CHIHUAHUA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "73",
+    "descripcion": "AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "75",
+    "descripcion": "PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "80",
+    "descripcion": "COLOMBIA, COLOMBIA, NUEVO LEON.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "81",
+    "descripcion": "ALTAMIRA, ALTAMIRA, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "82",
+    "descripcion": "CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "83",
+    "descripcion": "DOS BOCAS, PARAISO, TABASCO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "84",
+    "descripcion": "GUANAJUATO, SILAO, GUANAJUATO.",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  }
+]

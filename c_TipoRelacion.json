@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "descripcion": "Nota de crédito de los documentos relacionados",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Nota de débito de los documentos relacionados",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Devolución de mercancía sobre facturas o traslados previos",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Sustitución de los CFDI previos",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Traslados de mercancias facturados previamente",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "Factura generada por los traslados previos",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "CFDI por aplicación de anticipo",
+    "fechaInicioDeVigencia": "13-08-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "Factura generada por pagos en parcialidades",
+    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaFinDeVigencia": "30-06-2022"
+  },
+  {
+    "id": "09",
+    "descripcion": "Factura generada por pagos diferidos",
+    "fechaInicioDeVigencia": "05-12-2017",
+    "fechaFinDeVigencia": "30-06-2022"
+  }
+]

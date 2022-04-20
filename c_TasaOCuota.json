@@ -1,0 +1,211 @@
+[
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.16",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "0.16",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "No",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.08",
+    "impuesto": "IVA Crédito aplicado del 50%",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "07-01-2019",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.265",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.3",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.53",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.5",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "1.6",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.304",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": 0.25,
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.09",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.08",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.07",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.06",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "0.03",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Fijo",
+    "minimo": "",
+    "maximo": "00",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": "Sí",
+    "retencion": "No",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "59.1449",
+    "impuesto": "IEPS",
+    "factor": "Cuota",
+    "traslado": "Sí",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "rangoOFijo": "Rango",
+    "minimo": "00",
+    "maximo": "0.35",
+    "impuesto": "ISR",
+    "factor": "Tasa",
+    "traslado": "No",
+    "retencion": "Sí",
+    "fechaInicioDeVigencia": "01-01-2017",
+    "fechaFinDeVigencia": ""
+  }
+]
