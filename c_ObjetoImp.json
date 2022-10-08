@@ -16,5 +16,11 @@
     "descripcion": "Sí objeto del impuesto y no obligado al desglose.",
     "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Sí objeto del impuesto y no causa impuesto.",
+    "fechaInicioDeVigencia": "07-10-2022",
+    "fechaFinDeVigencia": ""
   }
 ]
