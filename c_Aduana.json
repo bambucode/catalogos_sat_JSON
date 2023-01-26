@@ -292,5 +292,11 @@
     "descripcion": "GUANAJUATO, SILAO, GUANAJUATO.",
     "fechaInicioDeVigencia": "01-01-2022",
     "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "85",
+    "descripcion": "AEROPUERTO INTERNACIONAL FELIPE ÁNGELES, SANTA LUCÍA, ZUMPANGO, ESTADO DE MÉXICO.",
+    "fechaInicioDeVigencia": "13-01-2023",
+    "fechaFinDeVigencia": ""
   }
 ]
