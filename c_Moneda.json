@@ -264,6 +264,14 @@
     "fechaFinDeVigencia": ""
   },
   {
+    "id": "CNH",
+    "descripcion": "Yuan extracontinental (China )",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "29-05-2023",
+    "fechaFinDeVigencia": ""
+  },
+  {
     "id": "CNY",
     "descripcion": "Yuan Renminbi",
     "decimales": "2",
@@ -373,6 +381,14 @@
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "ESD",
+    "descripcion": "Dólar de Ecuador",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "29-05-2023",
     "fechaFinDeVigencia": ""
   },
   {
@@ -840,6 +856,14 @@
     "fechaFinDeVigencia": ""
   },
   {
+    "id": "NIC",
+    "descripcion": "Córdoba (Nicaragua)",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "29-05-2023",
+    "fechaFinDeVigencia": ""
+  },
+  {
     "id": "NIO",
     "descripcion": "Córdoba Oro",
     "decimales": "2",
@@ -1208,6 +1232,14 @@
     "fechaFinDeVigencia": ""
   },
   {
+    "id": "UYP",
+    "descripcion": "Uruguay (Peso)",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "29-05-2023",
+    "fechaFinDeVigencia": ""
+  },
+  {
     "id": "UYU",
     "descripcion": "Peso Uruguayo",
     "decimales": "2",
@@ -1229,6 +1261,14 @@
     "decimales": "2",
     "porcentajeVariacion": "05",
     "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "VES",
+    "descripcion": "Bolívar digital  (Venezuela)",
+    "decimales": "2",
+    "porcentajeVariacion": "05",
+    "fechaInicioDeVigencia": "29-05-2023",
     "fechaFinDeVigencia": ""
   },
   {
