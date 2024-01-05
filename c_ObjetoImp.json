@@ -22,5 +22,11 @@
     "descripcion": "Sí objeto del impuesto y no causa impuesto.",
     "fechaInicioDeVigencia": "07-10-2022",
     "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Sí objeto del impuesto, IVA crédito PODEBI.",
+    "fechaInicioDeVigencia": "06-12-2023",
+    "fechaFinDeVigencia": ""
   }
 ]
