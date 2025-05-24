@@ -7070,6 +7070,11 @@
     "finDeVigenciaDeLaPatente": ""
   },
   {
+    "c_PatenteAduanal": "1909",
+    "inicioDeVigenciaDeLaPatente": "15-01-2025",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
     "c_PatenteAduanal": "1911",
     "inicioDeVigenciaDeLaPatente": "06-09-2024",
     "finDeVigenciaDeLaPatente": ""
@@ -7121,6 +7126,11 @@
   },
   {
     "c_PatenteAduanal": "1931",
+    "inicioDeVigenciaDeLaPatente": "11-09-2024",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "1935",
     "inicioDeVigenciaDeLaPatente": "11-09-2024",
     "finDeVigenciaDeLaPatente": ""
   },
@@ -16265,6 +16275,16 @@
     "finDeVigenciaDeLaPatente": ""
   },
   {
+    "c_PatenteAduanal": "6150",
+    "inicioDeVigenciaDeLaPatente": "31-07-2023",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "6152",
+    "inicioDeVigenciaDeLaPatente": "28-09-2023",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
     "c_PatenteAduanal": "6155",
     "inicioDeVigenciaDeLaPatente": "12-12-2023",
     "finDeVigenciaDeLaPatente": ""
@@ -16272,6 +16292,11 @@
   {
     "c_PatenteAduanal": "6156",
     "inicioDeVigenciaDeLaPatente": "27-03-2024",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "6157",
+    "inicioDeVigenciaDeLaPatente": "11-06-2024",
     "finDeVigenciaDeLaPatente": ""
   },
   {
