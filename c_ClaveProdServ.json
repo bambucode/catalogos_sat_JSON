@@ -99903,7 +99903,7 @@
   },
   {
     "id": "15101505",
-    "descripcion": "Combustible diesel",
+    "descripcion": "Combustible diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -99980,7 +99980,7 @@
   },
   {
     "id": "15101513",
-    "descripcion": "Combustible diesel para uso fuera de carretera",
+    "descripcion": "Combustible diésel para uso fuera de carretera",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -100222,7 +100222,7 @@
   },
   {
     "id": "15101801",
-    "descripcion": "Biodiesel",
+    "descripcion": "Biodiésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -126809,7 +126809,7 @@
   },
   {
     "id": "25121501",
-    "descripcion": "Locomotoras diesel de carga",
+    "descripcion": "Locomotoras diésel de carga",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -126831,7 +126831,7 @@
   },
   {
     "id": "25121503",
-    "descripcion": "Locomotoras diesel de pasajeros",
+    "descripcion": "Locomotoras diésel de pasajeros",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -132177,7 +132177,7 @@
   },
   {
     "id": "25191803",
-    "descripcion": "Tester de humo diesel",
+    "descripcion": "Tester de humo diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -134333,7 +134333,7 @@
   },
   {
     "id": "26101504",
-    "descripcion": "Motores diesel",
+    "descripcion": "Motores diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -135158,7 +135158,7 @@
   },
   {
     "id": "26101771",
-    "descripcion": "Control electrónico de motor para motores diesel",
+    "descripcion": "Control electrónico de motor para motores diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -135180,7 +135180,7 @@
   },
   {
     "id": "26101773",
-    "descripcion": "Válvula de medición proporcional diesel",
+    "descripcion": "Válvula de medición proporcional diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -135202,7 +135202,7 @@
   },
   {
     "id": "26101775",
-    "descripcion": "Válvula de alta presión diesel",
+    "descripcion": "Válvula de alta presión diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -135235,7 +135235,7 @@
   },
   {
     "id": "26101778",
-    "descripcion": "Bobina del inyector de combustible diesel",
+    "descripcion": "Bobina del inyector de combustible diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -135895,7 +135895,7 @@
   },
   {
     "id": "26111601",
-    "descripcion": "Generadores diesel",
+    "descripcion": "Generadores diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -138601,7 +138601,7 @@
   },
   {
     "id": "26131501",
-    "descripcion": "Centrales eléctricas de diesel",
+    "descripcion": "Centrales eléctricas de diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
@@ -549033,7 +549033,7 @@
   },
   {
     "id": "72153302",
-    "descripcion": "Servicio de instalación de bombas de diesel",
+    "descripcion": "Servicio de instalación de bombas de diésel",
     "incluirIVATrasladado": "Opcional",
     "incluirIEPSTrasladado": "Opcional",
     "complementoQueDebeIncluir": "",
