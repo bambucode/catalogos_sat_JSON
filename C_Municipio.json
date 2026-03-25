@@ -1309,6 +1309,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "006",
+    "c_Estado": "BCN",
+    "descripcion": "San Quintin ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "007",
     "c_Estado": "AGU",
     "descripcion": "Rincón de Romos",
@@ -1516,6 +1523,13 @@
     "c_Estado": "ZAC",
     "descripcion": "Concepción del Oro",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "007",
+    "c_Estado": "BCN",
+    "descripcion": "San Felipe ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -2548,6 +2562,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "012",
+    "c_Estado": "CAM",
+    "descripcion": "Seybaplaya ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "013",
     "c_Estado": "COA",
     "descripcion": "Hidalgo",
@@ -2727,6 +2748,13 @@
     "c_Estado": "ZAC",
     "descripcion": "General Enrique Estrada",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "013",
+    "c_Estado": "CAM",
+    "descripcion": "Dzitbalché ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -3780,6 +3808,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "019",
+    "c_Estado": "SIN",
+    "descripcion": "ElDorado",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "020",
     "c_Estado": "COA",
     "descripcion": "Múzquiz",
@@ -3931,6 +3966,13 @@
     "c_Estado": "ZAC",
     "descripcion": "Jerez",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "020",
+    "c_Estado": "SIN",
+    "descripcion": "Juan José Ríos ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -5985,6 +6027,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "034",
+    "c_Estado": "MOR",
+    "descripcion": "Coatetelco ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "035",
     "c_Estado": "COA",
     "descripcion": "Torreón",
@@ -6125,6 +6174,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "035",
+    "c_Estado": "MOR",
+    "descripcion": "Xoxocotla ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "036",
     "c_Estado": "COA",
     "descripcion": "Viesca",
@@ -6262,6 +6318,13 @@
     "c_Estado": "ZAC",
     "descripcion": "Ojocaliente",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "036",
+    "c_Estado": "MOR",
+    "descripcion": "Hueyapan ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -8925,6 +8988,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "059",
+    "c_Estado": "SLP",
+    "descripcion": "Villa de Pozos",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "060",
     "c_Estado": "CHH",
     "descripcion": "Santa Bárbara",
@@ -10682,6 +10752,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "082",
+    "c_Estado": "GRO",
+    "descripcion": "Las Vigas ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "083",
     "c_Estado": "CHP",
     "descripcion": "Socoltenango",
@@ -10742,6 +10819,13 @@
     "c_Estado": "YUC",
     "descripcion": "Telchac Puerto",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "083",
+    "c_Estado": "GRO",
+    "descripcion": "San Nicolás ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -10808,6 +10892,13 @@
     "fechaDeFinDeVigencia": ""
   },
   {
+    "c_Municipio": "084",
+    "c_Estado": "GRO",
+    "descripcion": "Ñuu Savi ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
     "c_Municipio": "085",
     "c_Estado": "CHP",
     "descripcion": "Soyaló",
@@ -10861,6 +10952,13 @@
     "c_Estado": "YUC",
     "descripcion": "Temozón",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "085",
+    "c_Estado": "GRO",
+    "descripcion": "Santa Cruz del Rincón ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
@@ -12870,6 +12968,13 @@
     "c_Estado": "VER",
     "descripcion": "Paso del Macho",
     "fechaDeInicioDeVigencia": "01-01-2022",
+    "fechaDeFinDeVigencia": ""
+  },
+  {
+    "c_Municipio": "125",
+    "c_Estado": "CHP",
+    "descripcion": "Honduras de la Sierra ",
+    "fechaDeInicioDeVigencia": "23-01-2026",
     "fechaDeFinDeVigencia": ""
   },
   {
