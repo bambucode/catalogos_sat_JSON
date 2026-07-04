@@ -39377,6 +39377,14 @@
   },
   {
     "c_Aduana": "16",
+    "patente": "1804",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "03-07-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "16",
     "patente": "1805",
     "ejercicio": "2020",
     "cantidad": "999999",
