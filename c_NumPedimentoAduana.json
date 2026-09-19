@@ -20913,6 +20913,14 @@
   },
   {
     "c_Aduana": "07",
+    "patente": "6176",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "21-08-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "07",
     "patente": "7001",
     "ejercicio": "2007",
     "cantidad": "999999",
@@ -23661,6 +23669,14 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "01-01-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "11",
+    "patente": "3890",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
     "fechaFinDeVigencia": ""
   },
   {
@@ -32809,6 +32825,14 @@
   },
   {
     "c_Aduana": "16",
+    "patente": "1928",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "16",
     "patente": "0574",
     "ejercicio": "2007",
     "cantidad": "999999",
@@ -40849,6 +40873,14 @@
   },
   {
     "c_Aduana": "16",
+    "patente": "1923",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "21-08-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "16",
     "patente": "1924",
     "ejercicio": "2025",
     "cantidad": "999999",
@@ -40965,6 +40997,14 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "01-01-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "16",
+    "patente": "2022",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "21-08-2026",
     "fechaFinDeVigencia": ""
   },
   {
@@ -113969,6 +114009,14 @@
   },
   {
     "c_Aduana": "24",
+    "patente": "1720",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "24",
     "patente": "0407",
     "ejercicio": "2007",
     "cantidad": "999999",
@@ -126453,6 +126501,14 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "08-05-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "24",
+    "patente": "2018",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "18-09-2026",
     "fechaFinDeVigencia": ""
   },
   {
@@ -218725,6 +218781,22 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "01-01-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "37",
+    "patente": "2018",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "18-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "37",
+    "patente": "2068",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "18-09-2026",
     "fechaFinDeVigencia": ""
   },
   {
@@ -347057,6 +347129,22 @@
   },
   {
     "c_Aduana": "51",
+    "patente": "1876",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "51",
+    "patente": "1920",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "51",
     "patente": "0973",
     "ejercicio": "2016",
     "cantidad": "999999",
@@ -402641,6 +402729,14 @@
   },
   {
     "c_Aduana": "73",
+    "patente": "2018",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "18-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "73",
     "patente": "3013",
     "ejercicio": "2007",
     "cantidad": "999999",
@@ -415093,6 +415189,14 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "24-04-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "80",
+    "patente": "2018",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "18-09-2026",
     "fechaFinDeVigencia": ""
   },
   {
@@ -467565,6 +467669,22 @@
     "ejercicio": "2026",
     "cantidad": "999999",
     "fechaInicioDeVigencia": "01-01-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "85",
+    "patente": "1762",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "c_Aduana": "85",
+    "patente": "6115",
+    "ejercicio": "2026",
+    "cantidad": "999999",
+    "fechaInicioDeVigencia": "04-09-2026",
     "fechaFinDeVigencia": ""
   },
   {
